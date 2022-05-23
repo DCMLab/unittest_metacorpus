@@ -4,7 +4,7 @@ Grouping small corpora as a test case.
 
 ## Cloning this repo incl. submodules
 
-    git clone --recurse-submodules -j8 git@github.com:DCMLab/annotation_review.git
+    git clone --recurse-submodules -j8 git@github.com:DCMLab/unittest_metacorpus.git
     
 `-j8` is available from git >= 2.8 and fetches up to 8 submodules at a time in parallel
 

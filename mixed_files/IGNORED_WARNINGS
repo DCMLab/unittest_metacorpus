@@ -1,3 +1,2 @@
 INCORRECT_VOLTA_MN_WARNING (2, 94) ms3.Parse.mixed_files.Did03M-Son_regina-1762-Sarti.mscx.MeasureList
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 40, 85, 97, 131, 139) ms3.Parse.MS3.BWV_0815.mscx.MeasureList
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 52) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx.MeasureList
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 40, 85, 97, 131, 139) ms3.Parse.mixed_files.BWV_0815.mscx.MeasureList

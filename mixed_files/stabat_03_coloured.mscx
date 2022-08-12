@@ -6970,7 +6970,10 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
+            <z>3500</z>
             <style>Chord Symbol</style>
+            <placement>above</placement>
+            <minDistance>0.8</minDistance>
             <color r="170" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">

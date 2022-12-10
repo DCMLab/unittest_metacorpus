@@ -1,188 +1,110 @@
-VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 19) ms3.Parse.mixed_files.D973deutscher01.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 785) treat_group():
-	 Volta group of MC 19 contains voltas with different lengths: [1, 2] Check for correct computation of MNs.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 1, 'voice/KeySig/accidental') ms3.Parse.mixed_files.05_symph_fant.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 582) squash_staves():
-	 mc 1: The values ['3' '2'] in 'voice/KeySig/accidental' of 
-	  'staff' [4, 11] are lost.
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 17 (timesig 1, act_dur 9/16) is completed by 1 incorrect duration (expected: 7/16):
-	 {18: Fraction(1, 2)}
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 14, 16, 18, 20, 25, 28) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 202) check_measure_numbers():
-	 MCs 14, 16, 18, 20, 25, 28 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
-	     mc  mn act_dur mc_offset  dont_count  numbering_offset
-	 12  13  13     1/2         0        <NA>              <NA>
-	 13  14  14     1/2       1/2        <NA>              <NA>
-	 14  15  15     1/2         0        <NA>              <NA>
-	 15  16  16     1/2       1/2        <NA>              <NA>
-	 16  17  17    9/16         0        <NA>              <NA>
-	 17  18  18     1/2       1/2        <NA>              <NA>
-	 18  19  19     1/4         0        <NA>              <NA>
-	 19  20  20     3/4       1/4        <NA>              <NA>
-	 20  21  21       1         0        <NA>              <NA>
-	 23  24  24     1/2         0        <NA>              <NA>
-	 24  25  25     1/2       1/2        <NA>              <NA>
-	 25  26  26       1         0        <NA>              <NA>
-	 26  27  27     1/2         0        <NA>              <NA>
-	 27  28  28     1/2       1/2        <NA>              <NA>
-	 28  29  29       1         0        <NA>              <NA>
-VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 93) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 785) treat_group():
-	 Volta group of MC 93 contains voltas with different lengths: [1, 2, 1] Check for correct computation of MNs.
-VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 128) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 785) treat_group():
-	 Volta group of MC 128 contains voltas with different lengths: [1, 2] Check for correct computation of MNs.
-MISSING_END_REPEAT_WARNING (5, 97) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 396) start_section():
-	 The startRepeat in MC 97 is missing its endRepeat.
-	 For correction, MC 111 is interpreted as such because it precedes the next startRepeat.
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 111) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 111 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2):
-	 {97: Fraction(1, 2), 112: Fraction(3, 4)}
-INCORRECT_VOLTA_MN_WARNING (2, 96) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 184) check_measure_numbers():
-	 MC 96, the 1st measure of a 3rd volta, should have MN 113, not MN 115.
-INCORRECT_VOLTA_MN_WARNING (2, 120) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 184) check_measure_numbers():
-	 MC 120, the 1st measure of a 2nd volta, should have MN 138, not MN 139.
-INCORRECT_VOLTA_MN_WARNING (2, 129) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 184) check_measure_numbers():
-	 MC 129, the 1st measure of a 2nd volta, should have MN 147, not MN 148.
-INCORRECT_VOLTA_MN_WARNING (2, 138) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 184) check_measure_numbers():
-	 MC 138, the 1st measure of a 2nd volta, should have MN 156, not MN 157.
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 40, 85, 97, 131, 139) ms3.Parse.mixed_files.BWV_0815.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 202) check_measure_numbers():
-	 MCs 1, 40, 85, 97, 131, 139 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
-	       mc   mn act_dur mc_offset  dont_count  numbering_offset
-	 0      1    1    1/16     15/16        <NA>              <NA>
-	 1      2    2       1         0        <NA>              <NA>
-	 38    39   59     5/8         0        <NA>              <NA>
-	 39    40   60     1/8       5/8        <NA>              <NA>
-	 40    41   61     3/4         0        <NA>              <NA>
-	 83    84  104     3/4         0        <NA>              <NA>
-	 84    85  105     1/2       1/2        <NA>              <NA>
-	 85    86  106       1         0        <NA>              <NA>
-	 95    96  115     1/2         0        <NA>              <NA>
-	 96    97  116     1/2       1/2        <NA>              <NA>
-	 97    98  117       1         0        <NA>              <NA>
-	 129  130  149     1/4         0        <NA>              <NA>
-	 130  131  150     1/2       1/2        <NA>              <NA>
-	 131  132  151       1         0        <NA>              <NA>
-	 137  138  157     1/2         0        <NA>              <NA>
-	 138  139  158     1/2       1/2        <NA>              <NA>
-	 139  140  159       1         0        <NA>              <NA>
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 12) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 12 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
-	 {13: Fraction(1, 1)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 75) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration (expected: 5/8):
-	 {76: Fraction(1, 1)}
-INCORRECT_VOLTA_MN_WARNING (2, 94) ms3.Parse.mixed_files.Did03M-Son_regina-1762-Sarti.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 184) check_measure_numbers():
-	 MC 94, the 1st measure of a 2nd volta, should have MN 93, not MN 94.
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 13) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 13 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
-	 {14: Fraction(5, 8)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 25 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
-	 {26: Fraction(5, 8)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 45 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
-	 {46: Fraction(3, 8)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 48) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 48 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
-	 {49: Fraction(3, 8)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 50) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 50 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
-	 {51: Fraction(3, 4)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 52) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 52 (timesig 5/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 3/4):
-	 {53: Fraction(1, 2)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 104) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 104 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
-	 {105: Fraction(3, 4)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 106) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 106 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
-	 {107: Fraction(1, 1)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 147) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 147 (timesig 3/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/4):
-	 {148: Fraction(1, 2)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 149) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 712) make_offset_col():
-	 The incomplete MC 149 (timesig 3/4, act_dur 5/8) is completed by 1 incorrect duration (expected: 1/8):
-	 {150: Fraction(3, 4)}
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 202) check_measure_numbers():
-	 MCs 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
-	       mc   mn act_dur mc_offset  dont_count  numbering_offset
-	 4      5    5     1/4         0        <NA>              <NA>
-	 5      6    6     1/4       1/4        <NA>              <NA>
-	 6      7    7     1/2         0        <NA>              <NA>
-	 12    13   13     1/4         0        <NA>              <NA>
-	 13    14   14     5/8       1/8        <NA>              <NA>
-	 14    15   15     1/2         0        <NA>              <NA>
-	 16    17   17     1/4         0        <NA>              <NA>
-	 17    18   18     1/4       1/4        <NA>              <NA>
-	 18    19   19     1/2         0        <NA>              <NA>
-	 24    25   25     1/4         0        <NA>              <NA>
-	 25    26   26     5/8       1/8        <NA>              <NA>
-	 26    27   27     1/2         0        <NA>              <NA>
-	 33    34   34     1/4         0        <NA>              <NA>
-	 34    35   35     1/2       1/4        <NA>              <NA>
-	 35    36   36     3/4         0        <NA>              <NA>
-	 41    42   42     1/2         0        <NA>              <NA>
-	 42    43   43     1/4       1/2        <NA>              <NA>
-	 43    44   44     3/4         0        <NA>              <NA>
-	 44    45   45     3/4         0        <NA>              <NA>
-	 45    46   46     3/8       5/8        <NA>              <NA>
-	 46    47   47     3/4         0        <NA>              <NA>
-	 47    48   48     3/4         0        <NA>              <NA>
-	 48    49   49     3/8       5/8        <NA>              <NA>
-	 49    50   50     3/4         0        <NA>              <NA>
-	 50    51   51     3/4       1/2        <NA>              <NA>
-	 51    52   52     1/2         0        <NA>              <NA>
-	 77    78   78     3/4         0        <NA>              <NA>
-	 78    79   79     1/4       3/4        <NA>              <NA>
-	 79    80   80     3/4         0        <NA>              <NA>
-	 82    83   83     3/4         0        <NA>              <NA>
-	 83    84   84     1/2       3/4        <NA>              <NA>
-	 84    85   85     1/2         0        <NA>              <NA>
-	 100  101  101     1/2         0        <NA>              <NA>
-	 101  102  102     1/2       1/2        <NA>              <NA>
-	 102  103  103       1         0        <NA>              <NA>
-	 103  104  104     3/4         0        <NA>              <NA>
-	 104  105  105     3/4       1/4        <NA>              <NA>
-	 105  106  106     3/4         0        <NA>              <NA>
-	 146  147  147     1/2         0        <NA>              <NA>
-	 147  148  148     1/2       1/4        <NA>              <NA>
-	 148  149  149     5/8         0        <NA>              <NA>
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.mixed_files.1216_Toccata_cromaticha_per_l’elevatione_phrygian.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/annotations.py (line 347) expand_dcml():
-	 Score contains 1 labels that don't (and 198 that do) match the DCML standard:
-	    mc  mn      label harmony_layer
-	 0   1   1  ephryg.i{             1
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.mixed_files.1216_Toccata_cromaticha_per_l’elevatione_phrygian.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/expand_dcml.py (line 145) expand_labels():
-	 Phrase beginning and endings don't match:
-	      mc phraseend  mc phraseend
-	 0     7        }{   7        }{
-	 1    15        }{  15        }{
-	 2    20        }{  20        }{
-	 3    32        }{  32        }{
-	 4    45         {  45         }
-	 5    50        }{  50        }{
-	 6  <NA>       NaN  52         }
-DCML_HARMONY_INCOMPLETE_LOCALKEY_COLUMN_ERROR (12,) ms3.Parse.mixed_files.1216_Toccata_cromaticha_per_l’elevatione_phrygian.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/expand_dcml.py (line 152) expand_labels():
-	 propagate_keys() failed with
-	 No global key specified.
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_ERROR (13,) ms3.Parse.mixed_files.1216_Toccata_cromaticha_per_l’elevatione_phrygian.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/expand_dcml.py (line 156) expand_labels():
-	 propagate_pedal() failed with
-	 Local keys must first be propagated using propagate_keys(), no NaNs allowed.
-MISSING_FACET_WARNING (11, 'BWV_0815') ms3.Parse.mixed_files -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for BWV_0815.
-MISSING_FACET_WARNING (11, 'K281-3') ms3.Parse.mixed_files -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for K281-3.
-MISSING_FACET_WARNING (11, 'K281-3') ms3.Parse.mixed_files -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for K281-3.
-MISSING_FACET_WARNING (11, 'SwWV258_fantasia_cromatica_empty') ms3.Parse.outputs -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for SwWV258_fantasia_cromatica_empty.
-MISSING_FACET_WARNING (11, 'Ravel_-_Miroirs_I._Noctuelles') ms3.Parse.ravel_piano -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for Ravel_-_Miroirs_I._Noctuelles.
-MISSING_FACET_WARNING (11, 'Ravel_-_Miroirs_II._Oiseaux_tristes') ms3.Parse.ravel_piano -- /home/hentsche/PycharmProjects/ms3/src/ms3/parse.py (line 3055) iter_transformed():
-	 Not all requested data available for Ravel_-_Miroirs_II._Oiseaux_tristes.
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 142, 'V7(6b5)') ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 3183) features2tpcs():
-	 MC 142: V7(6b5) results in a chord tone 5 AND its replacement(s) [-3].
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 71, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 3183) features2tpcs():
-	 MC 71: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 7, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 3183) features2tpcs():
-	 MC 7: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 106, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 3183) features2tpcs():
-	 MC 106: V64(6b5) results in a chord tone 5 AND its replacement(s) [5].
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 87, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.mscx -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 3183) features2tpcs():
-	 MC 87: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 14, 16, 18, 20, 25, 28) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 202) check_measure_numbers():
+	MCs 14, 16, 18, 20, 25, 28 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	12  13  13     1/2         0        <NA>              <NA>
+	13  14  14     1/2       1/2        <NA>              <NA>
+	14  15  15     1/2         0        <NA>              <NA>
+	15  16  16     1/2       1/2        <NA>              <NA>
+	16  17  17    9/16         0        <NA>              <NA>
+	17  18  18     1/2       1/2        <NA>              <NA>
+	18  19  19     1/4         0        <NA>              <NA>
+	19  20  20     3/4       1/4        <NA>              <NA>
+	20  21  21       1         0        <NA>              <NA>
+	23  24  24     1/2         0        <NA>              <NA>
+	24  25  25     1/2       1/2        <NA>              <NA>
+	25  26  26       1         0        <NA>              <NA>
+	26  27  27     1/2         0        <NA>              <NA>
+	27  28  28     1/2       1/2        <NA>              <NA>
+	28  29  29       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 17 (timesig 1, act_dur 9/16) is completed by 1 incorrect duration (expected: 7/16):
+	{18: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 12) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 12 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{13: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 75) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration (expected: 5/8):
+	{76: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 13) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 13 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{14: Fraction(5, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 25 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{26: Fraction(5, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 45 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{46: Fraction(3, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 48) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 48 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{49: Fraction(3, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 50) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 50 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{51: Fraction(3, 4)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 52) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 52 (timesig 5/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 3/4):
+	{53: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 104) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 104 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{105: Fraction(3, 4)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 106) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 106 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{107: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 147) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 147 (timesig 3/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/4):
+	{148: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 149) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 743) make_offset_col():
+	The incomplete MC 149 (timesig 3/4, act_dur 5/8) is completed by 1 incorrect duration (expected: 1/8):
+	{150: Fraction(3, 4)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_measures.py (line 202) check_measure_numbers():
+	MCs 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	      mc   mn act_dur mc_offset  dont_count  numbering_offset
+	4      5    5     1/4         0        <NA>              <NA>
+	5      6    6     1/4       1/4        <NA>              <NA>
+	6      7    7     1/2         0        <NA>              <NA>
+	12    13   13     1/4         0        <NA>              <NA>
+	13    14   14     5/8       1/8        <NA>              <NA>
+	14    15   15     1/2         0        <NA>              <NA>
+	16    17   17     1/4         0        <NA>              <NA>
+	17    18   18     1/4       1/4        <NA>              <NA>
+	18    19   19     1/2         0        <NA>              <NA>
+	24    25   25     1/4         0        <NA>              <NA>
+	25    26   26     5/8       1/8        <NA>              <NA>
+	26    27   27     1/2         0        <NA>              <NA>
+	33    34   34     1/4         0        <NA>              <NA>
+	34    35   35     1/2       1/4        <NA>              <NA>
+	35    36   36     3/4         0        <NA>              <NA>
+	41    42   42     1/2         0        <NA>              <NA>
+	42    43   43     1/4       1/2        <NA>              <NA>
+	43    44   44     3/4         0        <NA>              <NA>
+	44    45   45     3/4         0        <NA>              <NA>
+	45    46   46     3/8       5/8        <NA>              <NA>
+	46    47   47     3/4         0        <NA>              <NA>
+	47    48   48     3/4         0        <NA>              <NA>
+	48    49   49     3/8       5/8        <NA>              <NA>
+	49    50   50     3/4         0        <NA>              <NA>
+	50    51   51     3/4       1/2        <NA>              <NA>
+	51    52   52     1/2         0        <NA>              <NA>
+	77    78   78     3/4         0        <NA>              <NA>
+	78    79   79     1/4       3/4        <NA>              <NA>
+	79    80   80     3/4         0        <NA>              <NA>
+	82    83   83     3/4         0        <NA>              <NA>
+	83    84   84     1/2       3/4        <NA>              <NA>
+	84    85   85     1/2         0        <NA>              <NA>
+	100  101  101     1/2         0        <NA>              <NA>
+	101  102  102     1/2       1/2        <NA>              <NA>
+	102  103  103       1         0        <NA>              <NA>
+	103  104  104     3/4         0        <NA>              <NA>
+	104  105  105     3/4       1/4        <NA>              <NA>
+	105  106  106     3/4         0        <NA>              <NA>
+	146  147  147     1/2         0        <NA>              <NA>
+	147  148  148     1/2       1/4        <NA>              <NA>
+	148  149  149     5/8         0        <NA>              <NA>
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 142, 'V7(6b5)') ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():
+	MC 142: V7(6b5) results in a chord tone 5 AND its replacement(s) [-3].
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 7, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():
+	MC 7: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 87, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():
+	MC 87: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 71, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():
+	MC 71: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 106, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():/WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.tsv.

@@ -125,12 +125,59 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Klavier linke Hand</trackName>
-      <Instrument id="piano">
-        <trackName></trackName>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <trackName>Harpsichord</trackName>
+        <minPitchP>29</minPitchP>
+        <maxPitchP>89</maxPitchP>
+        <minPitchA>29</minPitchA>
+        <maxPitchA>89</maxPitchA>
+        <instrumentId>keyboard.harpsichord</instrumentId>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -141,6 +188,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <offset x="0" y="4.53226"/>
           <text>BWV 815</text>
           </Text>
         <Text>
@@ -163,6 +211,7 @@
             </TimeSig>
           <StaffText>
             <autoplace>0</autoplace>
+            <offset x="0.524567" y="-7.35058"/>
             <text>Französische Suite Nr. 4 in Es-Dur.</text>
             </StaffText>
           <StaffText>

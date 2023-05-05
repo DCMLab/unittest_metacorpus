@@ -125,7 +125,6 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Harpsichord</trackName>
       <Instrument id="harpsichord">
         <longName>Harpsichord</longName>
         <shortName>Hch.</shortName>

@@ -185,7 +185,6 @@
       <Instrument id="piano">
         <longName>Piano</longName>
         <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>

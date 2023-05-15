@@ -1,0 +1,5 @@
+name: unittest_metarepo
+description: A repository containing test files for testing ms3 and dimcat.
+resources:
+  - unittest_metadata.resource.yaml
+  - unittest_notes.resource.yaml

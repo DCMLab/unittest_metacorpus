@@ -3,8 +3,8 @@ type: table
 path: concatenated_metadata.tsv
 scheme: file
 format: tsv
-encoding: utf-8
 mediatype: text/tsv
+encoding: utf-8
 dialect:
   csv:
     delimiter: "\t"

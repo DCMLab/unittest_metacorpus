@@ -56,3 +56,7 @@ schema:
       type: integer
     - name: chord_id
       type: integer
+  primaryKey:
+    - corpus
+    - fname
+    - i

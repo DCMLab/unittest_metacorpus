@@ -122,3 +122,6 @@ schema:
       type: string
     - name: P86 (composer)
       type: string
+  primaryKey:
+    - corpus
+    - fname

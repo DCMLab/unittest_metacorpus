@@ -1,12 +1,12 @@
 [submodule "wagner_overtures"]
 	path = wagner_overtures
-	url = git@github.com:DCMLab/wagner_overtures.git
+	url = https://github.com/DCMLab/wagner_overtures
 	branch = main
 [submodule "sweelinck_keyboard"]
 	path = sweelinck_keyboard
-	url = git@github.com:DCMLab/sweelinck_keyboard.git
+	url = https://github.com/DCMLab/sweelinck_keyboard
 	branch = main
 [submodule "ravel_piano"]
 	path = ravel_piano
-	url = git@github.com:DCMLab/ravel_piano.git
+	url = https://github.com/DCMLab/ravel_piano
 	branch = main

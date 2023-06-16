@@ -1,0 +1,62 @@
+name: concatenated_notes
+type: table
+path: concatenated_notes.tsv
+scheme: file
+format: tsv
+mediatype: text/tsv
+encoding: utf-8
+dialect:
+  csv:
+    delimiter: "\t"
+schema:
+  fields:
+    - name: corpus
+      type: string
+    - name: fname
+      type: string
+    - name: i
+      type: integer
+    - name: mc
+      type: integer
+    - name: mn
+      type: integer
+    - name: quarterbeats
+      type: string
+    - name: duration_qb
+      type: number
+    - name: mc_onset
+      type: string
+    - name: mn_onset
+      type: string
+    - name: timesig
+      type: string
+    - name: staff
+      type: integer
+    - name: voice
+      type: integer
+    - name: duration
+      type: string
+    - name: gracenote
+      type: any
+    - name: tremolo
+      type: any
+    - name: nominal_duration
+      type: string
+    - name: scalar
+      type: string
+    - name: tied
+      type: any
+    - name: tpc
+      type: integer
+    - name: midi
+      type: integer
+    - name: name
+      type: string
+    - name: octave
+      type: integer
+    - name: chord_id
+      type: integer
+  primaryKey:
+    - corpus
+    - fname
+    - i

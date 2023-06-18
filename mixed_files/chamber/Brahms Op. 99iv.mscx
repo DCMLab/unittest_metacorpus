@@ -136,8 +136,6 @@
         </Staff>
       <trackName>Cello</trackName>
       <Instrument id="violoncello">
-        <longName>Violoncello</longName>
-        <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>90</maxPitchP>
@@ -219,8 +217,6 @@
         </Staff>
       <trackName>MusicXML Part</trackName>
       <Instrument id="piano">
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>

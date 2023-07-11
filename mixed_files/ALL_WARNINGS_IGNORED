@@ -108,3 +108,23 @@ DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 87, 'V64(6b5)') ms3.Parse.
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 71, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():
 	MC 71: V64(6b5) results in a chord tone 5 AND its replacement(s) [2].
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 106, 'V64(6b5)') ms3.Parse.wagner_overtures.WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia -- /home/hentsche/PycharmProjects/ms3/src/ms3/utils.py (line 4006) features2tpcs():/WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.tsv.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_parser.py (line 485) perform_checks():
+	No metronome mark found in the very first measure nor anywhere else in the score.
+	* Please add one at the very beginning and hide it if it's not from the original print edition.
+	* Make sure to choose the rhythmic unit that corresponds to beats in this piece and to set another mark wherever that unit changes.
+	* The tempo marks can be rough estimates, maybe cross-checked with a recording.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_parser.py (line 485) perform_checks():
+	No metronome mark found in the very first measure nor anywhere else in the score.
+	* Please add one at the very beginning and hide it if it's not from the original print edition.
+	* Make sure to choose the rhythmic unit that corresponds to beats in this piece and to set another mark wherever that unit changes.
+	* The tempo marks can be rough estimates, maybe cross-checked with a recording.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_parser.py (line 485) perform_checks():
+	No metronome mark found in the very first measure nor anywhere else in the score.
+	* Please add one at the very beginning and hide it if it's not from the original print edition.
+	* Make sure to choose the rhythmic unit that corresponds to beats in this piece and to set another mark wherever that unit changes.
+	* The tempo marks can be rough estimates, maybe cross-checked with a recording.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.sweelinck_keyboard.SwWV258_fantasia_cromatica -- /home/hentsche/PycharmProjects/ms3/src/ms3/bs4_parser.py (line 485) perform_checks():
+	No metronome mark found in the very first measure nor anywhere else in the score.
+	* Please add one at the very beginning and hide it if it's not from the original print edition.
+	* Make sure to choose the rhythmic unit that corresponds to beats in this piece and to set another mark wherever that unit changes.
+	* The tempo marks can be rough estimates, maybe cross-checked with a recording.

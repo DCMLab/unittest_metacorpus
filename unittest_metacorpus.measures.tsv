@@ -1,0 +1,1171 @@
+corpus	piece	i	mc	mn	quarterbeats	duration_qb	keysig	timesig	act_dur	mc_offset	numbering_offset	dont_count	barline	breaks	repeats	next
+ravel_piano	Ravel_-_Jeux_dEau	0	1	1	0	4.0	4	4/4	1	0					firstMeasure	2
+ravel_piano	Ravel_-_Jeux_dEau	1	2	2	4	2.0	4	2/4	1/2	0						3
+ravel_piano	Ravel_-_Jeux_dEau	2	3	3	6	4.0	4	4/4	1	0						4
+ravel_piano	Ravel_-_Jeux_dEau	3	4	4	10	4.0	4	4/4	1	0						5
+ravel_piano	Ravel_-_Jeux_dEau	4	5	5	14	4.0	4	4/4	1	0						6
+ravel_piano	Ravel_-_Jeux_dEau	5	6	6	18	4.0	4	4/4	1	0						7
+ravel_piano	Ravel_-_Jeux_dEau	6	7	7	22	4.0	4	4/4	1	0						8
+ravel_piano	Ravel_-_Jeux_dEau	7	8	8	26	2.0	4	2/4	1/2	0						9
+ravel_piano	Ravel_-_Jeux_dEau	8	9	9	28	4.0	4	4/4	1	0						10
+ravel_piano	Ravel_-_Jeux_dEau	9	10	10	32	4.0	4	4/4	1	0						11
+ravel_piano	Ravel_-_Jeux_dEau	10	11	11	36	4.0	4	4/4	1	0						12
+ravel_piano	Ravel_-_Jeux_dEau	11	12	12	40	1.0	4	1/4	1/4	0						13
+ravel_piano	Ravel_-_Jeux_dEau	12	13	13	41	4.0	4	4/4	1	0						14
+ravel_piano	Ravel_-_Jeux_dEau	13	14	14	45	4.0	4	4/4	1	0						15
+ravel_piano	Ravel_-_Jeux_dEau	14	15	15	49	4.0	4	4/4	1	0						16
+ravel_piano	Ravel_-_Jeux_dEau	15	16	16	53	4.0	4	4/4	1	0						17
+ravel_piano	Ravel_-_Jeux_dEau	16	17	17	57	2.0	4	2/4	1/2	0						18
+ravel_piano	Ravel_-_Jeux_dEau	17	18	18	59	4.25	4	4/4	17/16	0						19
+ravel_piano	Ravel_-_Jeux_dEau	18	19	19	253/4	4.0	4	4/4	1	0						20
+ravel_piano	Ravel_-_Jeux_dEau	19	20	20	269/4	4.0	4	4/4	1	0						21
+ravel_piano	Ravel_-_Jeux_dEau	20	21	21	285/4	4.0	4	4/4	1	0						22
+ravel_piano	Ravel_-_Jeux_dEau	21	22	22	301/4	4.0	4	4/4	1	0						23
+ravel_piano	Ravel_-_Jeux_dEau	22	23	23	317/4	4.0	4	4/4	1	0						24
+ravel_piano	Ravel_-_Jeux_dEau	23	24	24	333/4	4.0	4	4/4	1	0						25
+ravel_piano	Ravel_-_Jeux_dEau	24	25	25	349/4	4.0	4	4/4	1	0						26
+ravel_piano	Ravel_-_Jeux_dEau	25	26	26	365/4	4.0	4	4/4	1	0						27
+ravel_piano	Ravel_-_Jeux_dEau	26	27	27	381/4	4.0	4	4/4	1	0						28
+ravel_piano	Ravel_-_Jeux_dEau	27	28	28	397/4	4.0	4	4/4	1	0						29
+ravel_piano	Ravel_-_Jeux_dEau	28	29	29	413/4	4.0	4	4/4	1	0						30
+ravel_piano	Ravel_-_Jeux_dEau	29	30	30	429/4	4.0	4	4/4	1	0						31
+ravel_piano	Ravel_-_Jeux_dEau	30	31	31	445/4	4.0	4	4/4	1	0						32
+ravel_piano	Ravel_-_Jeux_dEau	31	32	32	461/4	4.0	4	4/4	1	0						33
+ravel_piano	Ravel_-_Jeux_dEau	32	33	33	477/4	4.0	4	4/4	1	0						34
+ravel_piano	Ravel_-_Jeux_dEau	33	34	34	493/4	4.0	4	4/4	1	0						35
+ravel_piano	Ravel_-_Jeux_dEau	34	35	35	509/4	4.0	4	4/4	1	0						36
+ravel_piano	Ravel_-_Jeux_dEau	35	36	36	525/4	4.0	4	4/4	1	0						37
+ravel_piano	Ravel_-_Jeux_dEau	36	37	37	541/4	6.0	4	4/4	3/2	0						38
+ravel_piano	Ravel_-_Jeux_dEau	37	38	38	565/4	4.0	4	4/4	1	0						39
+ravel_piano	Ravel_-_Jeux_dEau	38	39	39	581/4	4.0	4	4/4	1	0						40
+ravel_piano	Ravel_-_Jeux_dEau	39	40	40	597/4	4.0	4	4/4	1	0						41
+ravel_piano	Ravel_-_Jeux_dEau	40	41	41	613/4	4.0	4	4/4	1	0						42
+ravel_piano	Ravel_-_Jeux_dEau	41	42	42	629/4	4.0	4	4/4	1	0						43
+ravel_piano	Ravel_-_Jeux_dEau	42	43	43	645/4	4.0	4	4/4	1	0						44
+ravel_piano	Ravel_-_Jeux_dEau	43	44	44	661/4	4.0	4	4/4	1	0						45
+ravel_piano	Ravel_-_Jeux_dEau	44	45	45	677/4	4.0	4	4/4	1	0						46
+ravel_piano	Ravel_-_Jeux_dEau	45	46	46	693/4	4.0	4	4/4	1	0						47
+ravel_piano	Ravel_-_Jeux_dEau	46	47	47	709/4	4.0	4	4/4	1	0						48
+ravel_piano	Ravel_-_Jeux_dEau	47	48	48	725/4	4.0	4	4/4	1	0						49
+ravel_piano	Ravel_-_Jeux_dEau	48	49	49	741/4	2.0	4	2/4	1/2	0						50
+ravel_piano	Ravel_-_Jeux_dEau	49	50	50	749/4	4.0	4	4/4	1	0						51
+ravel_piano	Ravel_-_Jeux_dEau	50	51	51	765/4	4.0	4	4/4	1	0						52
+ravel_piano	Ravel_-_Jeux_dEau	51	52	52	781/4	4.0	4	4/4	1	0						53
+ravel_piano	Ravel_-_Jeux_dEau	52	53	53	797/4	4.0	4	4/4	1	0						54
+ravel_piano	Ravel_-_Jeux_dEau	53	54	54	813/4	2.0	4	2/4	1/2	0						55
+ravel_piano	Ravel_-_Jeux_dEau	54	55	55	821/4	3.0	4	3/4	3/4	0						56
+ravel_piano	Ravel_-_Jeux_dEau	55	56	56	833/4	4.0	4	4/4	1	0						57
+ravel_piano	Ravel_-_Jeux_dEau	56	57	57	849/4	2.0	4	2/4	1/2	0						58
+ravel_piano	Ravel_-_Jeux_dEau	57	58	58	857/4	2.0	4	2/4	1/2	0						59
+ravel_piano	Ravel_-_Jeux_dEau	58	59	59	865/4	3.0	4	3/4	3/4	0						60
+ravel_piano	Ravel_-_Jeux_dEau	59	60	60	877/4	4.0	4	4/4	1	0						61
+ravel_piano	Ravel_-_Jeux_dEau	60	61	61	893/4	4.0	4	4/4	1	0						62
+ravel_piano	Ravel_-_Jeux_dEau	61	62	62	909/4	4.0	4	4/4	1	0						63
+ravel_piano	Ravel_-_Jeux_dEau	62	63	63	925/4	2.0	4	2/4	1/2	0						64
+ravel_piano	Ravel_-_Jeux_dEau	63	64	64	933/4	4.0	4	4/4	1	0						65
+ravel_piano	Ravel_-_Jeux_dEau	64	65	65	949/4	4.0	4	4/4	1	0						66
+ravel_piano	Ravel_-_Jeux_dEau	65	66	66	965/4	4.0	4	4/4	1	0						67
+ravel_piano	Ravel_-_Jeux_dEau	66	67	67	981/4	2.0	4	2/4	1/2	0						68
+ravel_piano	Ravel_-_Jeux_dEau	67	68	68	989/4	4.0	4	4/4	1	0						69
+ravel_piano	Ravel_-_Jeux_dEau	68	69	69	1005/4	4.0	4	4/4	1	0						70
+ravel_piano	Ravel_-_Jeux_dEau	69	70	70	1021/4	4.0	4	4/4	1	0						71
+ravel_piano	Ravel_-_Jeux_dEau	70	71	71	1037/4	4.0	4	4/4	1	0						72
+ravel_piano	Ravel_-_Jeux_dEau	71	72	72	1053/4	4.0	4	4/4	1	0						73
+ravel_piano	Ravel_-_Jeux_dEau	72	73	72	1069/4	7.0	4	4/4	7/4	0		1				74
+ravel_piano	Ravel_-_Jeux_dEau	73	74	72	1097/4	7.5	4	4/4	15/8	0		1				75
+ravel_piano	Ravel_-_Jeux_dEau	74	75	72	1127/4	1.5	4	4/4	3/8	0		1				76
+ravel_piano	Ravel_-_Jeux_dEau	75	76	73	1133/4	4.0	4	4/4	1	0						77
+ravel_piano	Ravel_-_Jeux_dEau	76	77	74	1149/4	4.0	4	4/4	1	0						78
+ravel_piano	Ravel_-_Jeux_dEau	77	78	75	1165/4	4.0	4	4/4	1	0						79
+ravel_piano	Ravel_-_Jeux_dEau	78	79	76	1181/4	4.0	4	4/4	1	0						80
+ravel_piano	Ravel_-_Jeux_dEau	79	80	77	1197/4	4.0	4	4/4	1	0						81
+ravel_piano	Ravel_-_Jeux_dEau	80	81	78	1213/4	4.0	4	4/4	1	0						82
+ravel_piano	Ravel_-_Jeux_dEau	81	82	79	1229/4	4.0	4	4/4	1	0						83
+ravel_piano	Ravel_-_Jeux_dEau	82	83	80	1245/4	4.0	4	4/4	1	0						84
+ravel_piano	Ravel_-_Jeux_dEau	83	84	81	1261/4	4.0	4	4/4	1	0						85
+ravel_piano	Ravel_-_Jeux_dEau	84	85	82	1277/4	4.0	4	4/4	1	0						86
+ravel_piano	Ravel_-_Jeux_dEau	85	86	83	1293/4	4.0	4	4/4	1	0						87
+ravel_piano	Ravel_-_Jeux_dEau	86	87	84	1309/4	2.0	4	2/4	1/2	0						88
+ravel_piano	Ravel_-_Jeux_dEau	87	88	85	1317/4	4.0	4	4/4	1	0			end		lastMeasure	-1
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	0	1	1	0	3.0	-5	3/4	3/4	0					firstMeasure	2
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	1	2	2	3	3.0	-5	3/4	3/4	0				line		3
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	2	3	3	6	3.0	-5	3/4	3/4	0						4
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	3	4	4	9	3.0	-5	3/4	3/4	0				line		5
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	4	5	5	12	3.0	-5	3/4	3/4	0						6
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	5	6	6	15	3.0	-5	3/4	3/4	0				line		7
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	6	7	7	18	3.0	-5	3/4	3/4	0						8
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	7	8	8	21	3.0	-5	3/4	3/4	0						9
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	8	9	9	24	3.0	-5	3/4	3/4	0				page		10
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	9	10	10	27	3.0	-5	3/4	3/4	0						11
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	10	11	11	30	3.0	-5	3/4	3/4	0						12
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	11	12	12	33	3.0	-5	3/4	3/4	0				line		13
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	12	13	13	36	1.5	-5	3/8	3/8	0						14
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	13	14	14	75/2	2.5	-5	5/8	5/8	0						15
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	14	15	15	40	2.5	-5	5/8	5/8	0				line		16
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	15	16	16	85/2	3.0	-5	6/8	3/4	0						17
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	16	17	17	91/2	3.0	-5	6/8	3/4	0				line		18
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	17	18	18	97/2	3.0	-5	6/8	3/4	0						19
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	18	19	19	103/2	4.0	-5	6/8	1	0				line		20
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	19	20	20	111/2	3.0	-5	6/8	3/4	0						21
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	20	21	21	117/2	2.0	-5	2/4	1/2	0						22
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	21	22	22	121/2	2.0	-5	2/4	1/2	0				page		23
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	22	23	23	125/2	1.5	-5	3/8	3/8	0						24
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	23	24	24	64	2.0	-5	2/4	1/2	0						25
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	24	25	25	66	2.0	-5	2/4	1/2	0				line		26
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	25	26	26	68	1.5	-5	3/8	3/8	0						27
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	26	27	27	139/2	2.5	-5	5/8	5/8	0						28
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	27	28	28	72	2.5	-5	5/8	5/8	0				line		29
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	28	29	29	149/2	2.5	-5	5/8	5/8	0						30
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	29	30	30	77	2.0	-5	2/4	1/2	0						31
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	30	31	31	79	3.5	-5	5/8	7/8	0				line		32
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	31	32	32	165/2	2.5	-5	5/8	5/8	0						33
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	32	33	33	85	3.0	-5	6/8	3/4	0						34
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	33	34	34	88	3.0	-5	6/8	3/4	0				line		35
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	34	35	35	91	3.0	-5	6/8	3/4	0						36
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	35	36	36	94	5.25	-5	6/8	21/16	0			double	page		37
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	36	37	37	397/4	5.0	-5	5/4	5/4	0						38
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	37	38	38	417/4	5.0	-5	5/4	5/4	0						39
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	38	39	39	437/4	3.0	-5	3/4	3/4	0						40
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	39	40	40	449/4	3.0	-5	3/4	3/4	0				line		41
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	40	41	41	461/4	5.0	-5	5/4	5/4	0						42
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	41	42	42	481/4	3.0	-5	3/4	3/4	0						43
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	42	43	43	493/4	3.0	-5	3/4	3/4	0						44
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	43	44	44	505/4	3.0	-5	3/4	3/4	0				line		45
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	44	45	45	517/4	5.0	-5	5/4	5/4	0						46
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	45	46	46	537/4	3.0	-5	3/4	3/4	0						47
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	46	47	47	549/4	3.0	-5	3/4	3/4	0						48
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	47	48	48	561/4	3.0	-5	3/4	3/4	0						49
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	48	49	49	573/4	3.0	-5	3/4	3/4	0				line		50
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	49	50	50	585/4	3.0	-5	3/4	3/4	0						51
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	50	51	51	597/4	5.25	-5	5/4	21/16	0						52
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	51	52	52	309/2	4.0	-5	4/4	1	0						53
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	52	53	53	317/2	5.0	-5	5/4	5/4	0				line		54
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	53	54	54	327/2	5.0	-5	5/4	5/4	0						55
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	54	55	55	337/2	3.0	-5	3/4	3/4	0						56
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	55	56	56	343/2	3.0	-5	3/4	3/4	0						57
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	56	57	57	349/2	3.0	-5	3/4	3/4	0				line		58
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	57	58	58	355/2	3.0	-5	3/4	3/4	0						59
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	58	59	59	361/2	3.0	-5	3/4	3/4	0						60
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	59	60	60	367/2	3.0	-5	3/4	3/4	0						61
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	60	61	61	373/2	3.0	-5	3/4	3/4	0						62
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	61	62	62	379/2	3.0	-5	3/4	3/4	0				line		63
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	62	63	63	385/2	3.0	-5	3/4	3/4	0						64
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	63	64	64	391/2	3.0	-5	3/4	3/4	0						65
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	64	65	65	397/2	3.0	-5	3/4	3/4	0				line		66
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	65	66	66	403/2	3.0	-5	3/4	3/4	0						67
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	66	67	67	409/2	3.0	-5	3/4	3/4	0						68
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	67	68	68	415/2	3.0	-5	3/4	3/4	0						69
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	68	69	69	421/2	3.0	-5	3/4	3/4	0				line		70
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	69	70	70	427/2	3.0	-5	3/4	3/4	0						71
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	70	71	71	433/2	3.0	-5	3/4	3/4	0						72
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	71	72	72	439/2	3.0	-5	3/4	3/4	0						73
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	72	73	73	445/2	3.0	-5	3/4	3/4	0				line		74
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	73	74	74	451/2	3.0	-5	3/4	3/4	0						75
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	74	75	75	457/2	3.0	-5	3/4	3/4	0						76
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	75	76	76	463/2	3.0	-5	3/4	3/4	0				line		77
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	76	77	77	469/2	3.0	-5	3/4	3/4	0						78
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	77	78	78	475/2	3.0	-5	3/4	3/4	0						79
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	78	79	79	481/2	3.0	-5	3/4	3/4	0				line		80
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	79	80	80	487/2	3.0	-5	3/4	3/4	0						81
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	80	81	81	493/2	3.0	-5	3/4	3/4	0						82
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	81	82	82	499/2	3.0	-5	3/4	3/4	0				line		83
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	82	83	83	505/2	3.0	-5	3/4	3/4	0						84
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	83	84	84	511/2	3.0	-5	3/4	3/4	0						85
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	84	85	85	517/2	3.0	-5	3/4	3/4	0				line		86
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	85	86	86	523/2	3.0	-5	3/4	3/4	0						87
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	86	87	87	529/2	3.0	-5	3/4	3/4	0						88
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	87	88	88	535/2	3.0	-5	3/4	3/4	0				line		89
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	88	89	89	541/2	3.0	-5	3/4	3/4	0						90
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	89	90	90	547/2	3.0	-5	3/4	3/4	0						91
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	90	91	91	553/2	3.0	-5	3/4	3/4	0				page		92
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	91	92	92	559/2	3.0	-5	3/4	3/4	0						93
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	92	93	93	565/2	3.0	-5	3/4	3/4	0						94
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	93	94	94	571/2	3.0	-5	3/4	3/4	0						95
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	94	95	95	577/2	3.0	-5	3/4	3/4	0				line		96
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	95	96	96	583/2	3.0	-5	3/4	3/4	0						97
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	96	97	97	589/2	1.5	-5	3/8	3/8	0						98
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	97	98	98	296	3.0	-5	6/8	3/4	0				line		99
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	98	99	99	299	3.0	-5	6/8	3/4	0						100
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	99	100	100	302	3.0	-5	6/8	3/4	0				line		101
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	100	101	101	305	3.0	-5	6/8	3/4	0						102
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	101	102	102	308	3.0	-5	6/8	3/4	0				line		103
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	102	103	103	311	4.0	-5	6/8	1	0						104
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	103	104	104	315	3.0	-5	6/8	3/4	0				page		105
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	104	105	105	318	2.0	-5	2/4	1/2	0						106
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	105	106	106	320	2.0	-5	2/4	1/2	0						107
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	106	107	107	322	1.5	-5	3/8	3/8	0				line		108
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	107	108	108	647/2	2.0	-5	2/4	1/2	0						109
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	108	109	109	651/2	2.0	-5	2/4	1/2	0						110
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	109	110	110	655/2	1.5	-5	3/8	3/8	0				line		111
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	110	111	111	329	2.5	-5	5/8	5/8	0						112
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	111	112	112	663/2	2.5	-5	5/8	5/8	0				line		113
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	112	113	113	334	2.5	-5	5/8	5/8	0						114
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	113	114	114	673/2	2.0	-5	2/4	1/2	0						115
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	114	115	115	677/2	3.5	-5	5/8	7/8	0				line		116
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	115	116	116	342	2.5	-5	5/8	5/8	0						117
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	116	117	117	689/2	3.0	-5	6/8	3/4	0						118
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	117	118	118	695/2	3.0	-5	6/8	3/4	0				line		119
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	118	119	119	701/2	3.0	-5	6/8	3/4	0						120
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	119	120	120	707/2	6.0	-5	6/8	3/2	0				line		121
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	120	121	121	719/2	10.25	-5	6/8	41/16	0				line		122
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	121	122	122	1479/4	3.0	-5	3/4	3/4	0						123
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	122	123	123	1491/4	3.0	-5	3/4	3/4	0						124
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	123	124	124	1503/4	3.0	-5	3/4	3/4	0						125
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	124	125	125	1515/4	3.0	-5	3/4	3/4	0						126
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	125	126	126	1527/4	3.0	-5	3/4	3/4	0				line		127
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	126	127	127	1539/4	3.0	-5	3/4	3/4	0						128
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	127	128	128	1551/4	3.0	-5	3/4	3/4	0						129
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	128	129	129	1563/4	3.0	-5	3/4	3/4	0				line		130
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	129	130	130	1575/4	3.0	-5	3/4	3/4	0						131
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	130	131	131	1587/4	3.0	-5	3/4	3/4	0						132
+ravel_piano	Ravel_-_Miroirs_I._Noctuelles	131	132	132	1599/4	3.0	-5	3/4	3/4	0			end		lastMeasure	-1
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	0	1	1	0	4.0	-6	4/4	1	0					firstMeasure	2
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	1	2	2	4	4.0	-6	4/4	1	0						3
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	2	3	3	8	3.0	-6	3/4	3/4	0				line		4
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	3	4	4	11	4.0	-6	4/4	1	0						5
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	4	5	5	15	4.0	-6	4/4	1	0				line		6
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	5	6	6	19	6.0	-6	12/8	3/2	0						7
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	6	7	7	25	4.0	-6	4/4	1	0				line		8
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	7	8	8	29	4.0	-6	4/4	1	0						9
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	8	9	9	33	2.0	-6	2/4	1/2	0				page		10
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	9	10	10	35	4.0	4	4/4	1	0						11
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	10	11	11	39	4.0	4	4/4	1	0				line		12
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	11	12	12	43	4.0	4	4/4	1	0						13
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	12	13	13	47	2.0	4	4/4	1/2	0				line		14
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	13	14	14	49	2.0	4	4/4	1/2	1/2						15
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	14	15	15	51	2.0	4	4/4	1/2	0				line		16
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	15	16	16	53	2.0	4	4/4	1/2	1/2						17
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	16	17	17	55	2.25	4	4/4	9/16	0				line		18
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	17	18	18	229/4	2.0	4	4/4	1/2	1/2						19
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	18	19	19	237/4	1.0	4	4/4	1/4	0				page		20
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	19	20	20	241/4	3.0	4	4/4	3/4	1/4				line		21
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	20	21	21	253/4	4.0	4	4/4	1	0				line		22
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	21	22	22	269/4	2.0	4	2/4	1/2	0						23
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	22	23	23	277/4	4.0	4	4/4	1	0			double			24
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	23	24	24	293/4	2.0	-1	4/4	1/2	0				line		25
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	24	25	25	301/4	2.0	-1	4/4	1/2	1/2						26
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	25	26	26	309/4	4.0	-1	4/4	1	0						27
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	26	27	27	325/4	2.0	-1	4/4	1/2	0				line		28
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	27	28	28	333/4	2.0	-1	4/4	1/2	1/2						29
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	28	29	29	341/4	4.0	-1	4/4	1	0						30
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	29	30	30	357/4	2.0	-1	2/4	1/2	0				page		31
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	30	31	31	365/4	5.0	-1	2/4	5/4	0				line		32
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	31	32	32	385/4	5.0	-1	2/4	5/4	0				line		33
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	32	33	33	405/4	4.0	-1	2/4	1	0				line		34
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	33	34	34	421/4	4.0	0	4/4	1	0						35
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	34	35	35	437/4	4.0	0	4/4	1	0						36
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	35	36	36	453/4	4.0	0	4/4	1	0				line		37
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	36	37	37	469/4	4.0	-6	4/4	1	0						38
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	37	38	38	485/4	4.0	-6	4/4	1	0						39
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	38	39	39	501/4	4.0	-6	4/4	1	0						40
+ravel_piano	Ravel_-_Miroirs_II._Oiseaux_tristes	39	40	40	517/4	4.0	-6	4/4	1	0			end		lastMeasure	-1
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	0	1	1	0	2.0	3	2/4	1/2	0					firstMeasure	2
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	1	2	2	2	2.0	3	2/4	1/2	0						3
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	2	3	3	4	2.0	3	2/4	1/2	0						4
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	3	4	4	6	2.0	3	2/4	1/2	0						5
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	4	5	5	8	1.0	3	2/4	1/4	0						6
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	5	6	6	9	1.0	3	2/4	1/4	1/4						7
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	6	7	7	10	2.0	3	2/4	1/2	0						8
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	7	8	8	12	2.0	3	2/4	1/2	0						9
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	8	9	9	14	2.0	3	2/4	1/2	0						10
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	9	10	10	16	2.0	3	2/4	1/2	0						11
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	10	11	11	18	2.0	3	2/4	1/2	0			double			12
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	11	12	12	20	3.5	3	3/4	7/8	0						13
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	12	13	13	47/2	1.0	3	3/4	1/4	0						14
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	13	14	14	49/2	2.5	3	3/4	5/8	1/8			double			15
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	14	15	15	27	2.0	3	2/4	1/2	0						16
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	15	16	16	29	2.0	3	2/4	1/2	0						17
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	16	17	17	31	1.0	3	2/4	1/4	0						18
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	17	18	18	32	1.0	3	2/4	1/4	1/4						19
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	18	19	19	33	2.0	3	2/4	1/2	0						20
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	19	20	20	35	2.0	3	2/4	1/2	0						21
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	20	21	21	37	2.0	3	2/4	1/2	0						22
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	21	22	22	39	2.0	3	2/4	1/2	0						23
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	22	23	23	41	2.0	3	2/4	1/2	0			double			24
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	23	24	24	43	3.5	3	3/4	7/8	0						25
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	24	25	25	93/2	1.0	3	3/4	1/4	0						26
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	25	26	26	95/2	2.5	3	3/4	5/8	1/8			double			27
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	26	27	27	50	2.0	3	2/4	1/2	0						28
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	27	28	28	52	2.0	3	2/4	1/2	0						29
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	28	29	29	54	2.0	3	2/4	1/2	0						30
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	29	30	30	56	2.0	3	2/4	1/2	0						31
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	30	31	31	58	2.0	3	2/4	1/2	0			double			32
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	31	32	32	60	1.0	3	1/4	1/4	0			double			33
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	32	33	33	61	3.0	3	3/4	3/4	0						34
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	33	34	34	64	1.0	3	3/4	1/4	0						35
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	34	35	35	65	2.0	3	3/4	1/2	1/4						36
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	35	36	36	67	3.0	3	3/4	3/4	0						37
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	36	37	37	70	3.0	3	3/4	3/4	0						38
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	37	38	38	73	3.0	3	3/4	3/4	0						39
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	38	39	39	76	3.0	3	3/4	3/4	0						40
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	39	40	40	79	3.0	3	3/4	3/4	0						41
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	40	41	41	82	3.0	3	3/4	3/4	0						42
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	41	42	42	85	2.0	3	3/4	1/2	0						43
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	42	43	43	87	1.0	3	3/4	1/4	1/2						44
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	43	44	44	88	3.0	3	3/4	3/4	0			double			45
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	44	45	45	91	3.0	3	4/4	3/4	0						46
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	45	46	46	94	1.5	3	4/4	3/8	5/8			double			47
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	46	47	47	191/2	3.0	3	3/4	3/4	0			double			48
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	47	48	48	197/2	3.0	3	4/4	3/4	0						49
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	48	49	49	203/2	1.5	3	4/4	3/8	5/8						50
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	49	50	50	103	3.0	3	4/4	3/4	0			double			51
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	50	51	51	106	3.0	3	5/4	3/4	1/2						52
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	51	52	52	109	2.0	3	5/4	1/2	0			double			53
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	52	53	53	111	2.0	3	2/4	1/2	0						54
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	53	54	54	113	2.0	3	2/4	1/2	0						55
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	54	55	55	115	2.0	3	2/4	1/2	0						56
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	55	56	56	117	2.0	3	2/4	1/2	0						57
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	56	57	57	119	2.0	3	2/4	1/2	0						58
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	57	58	58	121	2.0	3	2/4	1/2	0						59
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	58	59	59	123	2.0	3	2/4	1/2	0						60
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	59	60	60	125	2.0	3	2/4	1/2	0						61
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	60	61	61	127	2.0	3	2/4	1/2	0						62
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	61	62	62	129	2.0	3	2/4	1/2	0						63
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	62	63	63	131	2.0	3	2/4	1/2	0			double			64
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	63	64	64	133	3.0	3	3/4	3/4	0						65
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	64	65	65	136	3.0	3	3/4	3/4	0						66
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	65	66	66	139	3.0	3	3/4	3/4	0						67
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	66	67	67	142	3.0	3	3/4	3/4	0						68
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	67	68	68	145	3.0	3	3/4	3/4	0						69
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	68	69	69	148	3.0	3	3/4	3/4	0			double			70
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	69	70	70	151	2.0	3	2/4	1/2	0						71
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	70	71	71	153	2.0	3	2/4	1/2	0						72
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	71	72	72	155	2.0	3	2/4	1/2	0						73
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	72	73	73	157	2.0	3	2/4	1/2	0						74
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	73	74	74	159	2.0	3	2/4	1/2	0						75
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	74	75	75	161	2.0	3	2/4	1/2	0						76
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	75	76	76	163	2.0	3	2/4	1/2	0						77
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	76	77	77	165	3.0	-3	3/4	3/4	0			double			78
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	77	78	78	168	3.0	-3	4/4	3/4	0						79
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	78	79	79	171	1.0	-3	4/4	1/4	3/4			double			80
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	79	80	80	172	3.0	-3	3/4	3/4	0			double			81
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	80	81	81	175	4.0	-3	4/4	1	0						82
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	81	82	82	179	4.0	-3	4/4	1	0			double			83
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	82	83	83	183	3.0	-3	5/4	3/4	0						84
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	83	84	84	186	2.0	-3	5/4	1/2	3/4			double			85
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	84	85	85	188	2.0	-3	2/4	1/2	0						86
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	85	86	86	190	2.0	-3	2/4	1/2	0						87
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	86	87	87	192	2.0	-3	2/4	1/2	0						88
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	87	88	88	194	2.0	-3	2/4	1/2	0						89
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	88	89	89	196	2.0	-3	2/4	1/2	0			double			90
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	89	90	90	198	3.0	3	3/4	3/4	0			double			91
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	90	91	91	201	2.0	3	2/4	1/2	0			double			92
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	91	92	92	203	3.0	3	3/4	3/4	0			double			93
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	92	93	93	206	4.0	3	4/4	1	0						94
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	93	94	94	210	4.0	3	4/4	1	0						95
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	94	95	95	214	4.0	3	4/4	1	0						96
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	95	96	96	218	4.0	3	4/4	1	0			double			97
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	96	97	97	222	3.0	3	3/4	3/4	0						98
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	97	98	98	225	3.0	3	3/4	3/4	0						99
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	98	99	99	228	3.0	3	3/4	3/4	0			double			100
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	99	100	100	231	4.0	3	4/4	1	0						101
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	100	101	101	235	2.0	3	4/4	1/2	0						102
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	101	102	102	237	2.0	3	4/4	1/2	1/2						103
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	102	103	103	239	4.0	3	4/4	1	0						104
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	103	104	104	243	3.0	3	4/4	3/4	0						105
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	104	105	105	246	3.0	3	4/4	3/4	1/4						106
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	105	106	106	249	3.0	3	4/4	3/4	0						107
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	106	107	107	252	4.0	3	4/4	1	0						108
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	107	108	108	256	4.0	3	4/4	1	0			double			109
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	108	109	109	260	2.0	3	2/4	1/2	0						110
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	109	110	110	262	4.0	3	4/4	1	0						111
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	110	111	111	266	4.0	3	4/4	1	0						112
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	111	112	112	270	4.0	3	4/4	1	0						113
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	112	113	113	274	4.0	3	4/4	1	0						114
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	113	114	114	278	4.0	3	4/4	1	0						115
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	114	115	115	282	4.0	3	4/4	1	0			double			116
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	115	116	116	286	3.0	3	3/4	3/4	0						117
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	116	117	117	289	3.0	3	3/4	3/4	0						118
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	117	118	118	292	3.0	3	3/4	3/4	0			double			119
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	118	119	119	295	4.0	3	4/4	1	0						120
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	119	120	120	299	4.0	3	4/4	1	0						121
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	120	121	121	303	4.0	3	4/4	1	0						122
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	121	122	122	307	4.0	3	4/4	1	0			double			123
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	122	123	123	311	3.0	3	3/4	3/4	0						124
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	123	124	124	314	3.0	3	3/4	3/4	0						125
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	124	125	125	317	3.0	3	3/4	3/4	0						126
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	125	126	126	320	3.0	3	3/4	3/4	0						127
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	126	127	127	323	4.0	3	4/4	1	0			double			128
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	127	128	128	327	3.0	3	3/4	3/4	0			double			129
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	128	129	129	330	2.0	3	2/4	1/2	0						130
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	129	130	130	332	2.0	3	2/4	1/2	0						131
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	130	131	131	334	2.0	3	2/4	1/2	0						132
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	131	132	132	336	2.0	3	2/4	1/2	0						133
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	132	133	133	338	2.0	3	2/4	1/2	0						134
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	133	134	134	340	2.0	3	2/4	1/2	0						135
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	134	135	135	342	2.0	3	2/4	1/2	0						136
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	135	136	136	344	3.0	3	2/4	3/4	0						137
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	136	137	137	347	2.0	3	2/4	1/2	0						138
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	137	138	138	349	2.0	3	2/4	1/2	0						139
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	138	139	139	351	2.0	3	2/4	1/2	0						140
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	139	140	140	353	2.0	3	2/4	1/2	0						141
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	140	141	141	355	2.0	3	2/4	1/2	0						142
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	141	142	142	357	2.0	3	2/4	1/2	0						143
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	142	143	143	359	2.0	3	2/4	1/2	0						144
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	143	144	144	361	2.5	3	2/4	5/8	0						145
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	144	145	145	727/2	2.0	3	2/4	1/2	0			double			146
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	145	146	146	731/2	3.0	3	3/4	3/4	0						147
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	146	147	147	737/2	2.0	3	3/4	1/2	0						148
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	147	148	148	741/2	2.0	3	3/4	1/2	1/4						149
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	148	149	149	745/2	2.5	3	3/4	5/8	0						150
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	149	150	150	375	3.0	3	3/4	3/4	0						151
+ravel_piano	Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean	150	151	151	378	2.0	3	3/4	1/2	0			end		lastMeasure	-1
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	0	1	1	0	3.0	-1	6/8	3/4	0					firstMeasure	2
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	1	2	2	3	3.0	-1	6/8	3/4	0						3
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	2	3	3	6	3.0	-1	6/8	3/4	0						4
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	3	4	4	9	3.0	-1	6/8	3/4	0						5
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	4	5	5	12	3.0	-1	6/8	3/4	0						6
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	5	6	6	15	3.0	-1	6/8	3/4	0						7
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	6	7	7	18	3.0	-1	6/8	3/4	0						8
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	7	8	8	21	3.0	-1	6/8	3/4	0						9
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	8	9	9	24	3.0	-1	6/8	3/4	0						10
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	9	10	10	27	3.0	-1	6/8	3/4	0						11
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	10	11	11	30	3.0	-1	6/8	3/4	0						12
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	11	12	12	33	3.0	-1	6/8	3/4	0						13
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	12	13	13	36	3.0	-1	6/8	3/4	0						14
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	13	14	14	39	3.0	-1	6/8	3/4	0						15
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	14	15	15	42	3.0	-1	6/8	3/4	0						16
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	15	16	16	45	3.0	-1	6/8	3/4	0						17
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	16	17	17	48	3.0	-1	6/8	3/4	0						18
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	17	18	18	51	3.0	-1	6/8	3/4	0						19
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	18	19	19	54	3.0	-1	6/8	3/4	0						20
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	19	20	20	57	3.0	-1	6/8	3/4	0						21
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	20	21	21	60	3.0	-1	6/8	3/4	0						22
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	21	22	22	63	3.0	-1	6/8	3/4	0						23
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	22	23	23	66	3.0	-1	6/8	3/4	0						24
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	23	24	24	69	3.0	-1	6/8	3/4	0						25
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	24	25	25	72	3.0	-1	6/8	3/4	0						26
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	25	26	26	75	3.0	-1	6/8	3/4	0						27
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	26	27	27	78	3.0	-1	6/8	3/4	0						28
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	27	28	28	81	3.0	-1	6/8	3/4	0						29
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	28	29	29	84	3.0	-1	6/8	3/4	0						30
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	29	30	30	87	1.5	-1	3/8	3/8	0						31
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	30	31	31	177/2	4.5	-1	9/8	9/8	0						32
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	31	32	32	93	4.5	-1	9/8	9/8	0						33
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	32	33	33	195/2	4.5	-1	9/8	9/8	0						34
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	33	34	34	102	4.5	-1	9/8	9/8	0						35
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	34	35	35	213/2	3.0	-1	6/8	3/4	0						36
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	35	36	36	219/2	4.5	-1	9/8	9/8	0						37
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	36	37	37	114	4.5	-1	9/8	9/8	0						38
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	37	38	38	237/2	4.5	-1	9/8	9/8	0						39
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	38	39	39	123	4.5	-1	9/8	9/8	0						40
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	39	40	40	255/2	4.5	-1	9/8	9/8	0						41
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	40	41	41	132	3.0	-1	6/8	3/4	0						42
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	41	42	42	135	3.0	-1	6/8	3/4	0			double			43
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	42	43	43	138	3.0	4	6/8	3/4	0						44
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	43	44	44	141	3.0	4	6/8	3/4	0						45
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	44	45	45	144	3.0	4	6/8	3/4	0						46
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	45	46	46	147	3.0	4	6/8	3/4	0						47
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	46	47	47	150	3.0	4	6/8	3/4	0						48
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	47	48	48	153	3.0	4	6/8	3/4	0						49
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	48	49	49	156	3.0	4	6/8	3/4	0						50
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	49	50	50	159	3.0	4	6/8	3/4	0						51
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	50	51	51	162	3.0	4	6/8	3/4	0						52
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	51	52	52	165	3.0	4	6/8	3/4	0						53
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	52	53	53	168	3.0	4	6/8	3/4	0						54
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	53	54	54	171	3.0	4	6/8	3/4	0						55
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	54	55	55	174	3.0	4	6/8	3/4	0						56
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	55	56	56	177	3.0	2	6/8	3/4	0						57
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	56	57	57	180	3.0	2	6/8	3/4	0						58
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	57	58	58	183	3.5	2	6/8	7/8	0						59
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	58	59	59	373/2	3.0	2	6/8	3/4	0						60
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	59	60	60	379/2	3.0	2	6/8	3/4	0						61
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	60	61	61	385/2	3.0	2	6/8	3/4	0						62
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	61	62	62	391/2	3.0	2	6/8	3/4	0						63
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	62	63	63	397/2	3.0	2	6/8	3/4	0						64
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	63	64	64	403/2	3.0	2	6/8	3/4	0						65
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	64	65	65	409/2	3.0	2	6/8	3/4	0						66
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	65	66	66	415/2	3.0	2	6/8	3/4	0						67
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	66	67	67	421/2	3.0	2	6/8	3/4	0						68
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	67	68	68	427/2	3.0	2	6/8	3/4	0						69
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	68	69	69	433/2	3.0	2	6/8	3/4	0						70
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	69	70	70	439/2	4.0	2	6/8	1	0						71
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	70	71	71	447/2	3.5	2	3/4	7/8	0						72
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	71	72	72	227	3.5	2	3/4	7/8	0						73
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	72	73	73	461/2	3.0	2	3/4	3/4	0						74
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	73	74	74	467/2	3.5	2	3/4	7/8	0						75
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	74	75	75	237	3.0	2	3/4	3/4	0						76
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	75	76	76	240	3.0	2	3/4	3/4	0						77
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	76	77	77	243	3.0	2	3/4	3/4	0						78
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	77	78	78	246	3.0	2	3/4	3/4	0						79
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	78	79	79	249	3.0	2	3/4	3/4	0						80
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	79	80	80	252	3.5	2	3/4	7/8	0						81
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	80	81	81	511/2	3.0	2	3/4	3/4	0						82
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	81	82	82	517/2	3.0	2	3/4	3/4	0						83
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	82	83	83	523/2	3.0	2	3/4	3/4	0						84
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	83	84	84	529/2	3.0	2	3/4	3/4	0						85
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	84	85	85	535/2	3.0	2	3/4	3/4	0						86
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	85	86	86	541/2	3.5	2	3/4	7/8	0						87
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	86	87	87	274	3.0	2	3/4	3/4	0						88
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	87	88	88	277	3.5	2	3/4	7/8	0						89
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	88	89	89	561/2	3.0	2	3/4	3/4	0						90
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	89	90	90	567/2	3.0	2	3/4	3/4	0						91
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	90	91	91	573/2	3.0	2	3/4	3/4	0						92
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	91	92	92	579/2	3.0	2	3/4	3/4	0						93
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	92	93	93	585/2	3.0	2	3/4	3/4	0						94
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	93	94	94	591/2	3.0	2	3/4	3/4	0						95
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	94	95	95	597/2	3.0	2	3/4	3/4	0						96
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	95	96	96	603/2	3.5	2	3/4	7/8	0						97
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	96	97	97	305	3.0	2	3/4	3/4	0						98
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	97	98	98	308	3.0	2	3/4	3/4	0						99
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	98	99	99	311	3.0	2	3/4	3/4	0						100
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	99	100	100	314	3.0	2	3/4	3/4	0						101
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	100	101	101	317	3.0	2	3/4	3/4	0						102
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	101	102	102	320	3.0	2	3/4	3/4	0						103
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	102	103	103	323	3.0	2	3/4	3/4	0						104
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	103	104	104	326	3.0	2	3/4	3/4	0						105
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	104	105	105	329	3.0	2	3/4	3/4	0						106
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	105	106	106	332	3.0	2	3/4	3/4	0						107
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	106	107	107	335	3.0	2	3/4	3/4	0						108
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	107	108	108	338	3.0	2	3/4	3/4	0						109
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	108	109	109	341	3.0	2	3/4	3/4	0						110
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	109	110	110	344	3.0	2	3/4	3/4	0						111
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	110	111	111	347	3.0	2	3/4	3/4	0						112
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	111	112	112	350	3.0	2	3/4	3/4	0						113
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	112	113	113	353	3.0	2	3/4	3/4	0						114
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	113	114	114	356	3.0	2	3/4	3/4	0						115
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	114	115	115	359	3.0	2	3/4	3/4	0						116
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	115	116	116	362	3.0	2	3/4	3/4	0						117
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	116	117	117	365	3.0	2	3/4	3/4	0						118
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	117	118	118	368	3.0	2	3/4	3/4	0						119
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	118	119	119	371	3.0	2	3/4	3/4	0						120
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	119	120	120	374	3.0	2	3/4	3/4	0						121
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	120	121	121	377	3.0	2	3/4	3/4	0						122
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	121	122	122	380	3.0	2	3/4	3/4	0						123
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	122	123	123	383	3.0	2	3/4	3/4	0						124
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	123	124	124	386	3.0	2	3/4	3/4	0						125
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	124	125	125	389	4.5	2	9/8	9/8	0						126
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	125	126	126	787/2	4.5	2	9/8	9/8	0						127
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	126	127	127	398	4.5	2	9/8	9/8	0						128
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	127	128	128	805/2	4.5	2	9/8	9/8	0						129
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	128	129	129	407	4.5	2	9/8	9/8	0						130
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	129	130	130	823/2	4.5	2	9/8	9/8	0						131
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	130	131	131	416	3.0	2	6/8	3/4	0						132
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	131	132	132	419	3.0	2	6/8	3/4	0						133
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	132	133	133	422	3.0	2	6/8	3/4	0						134
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	133	134	134	425	3.0	2	6/8	3/4	0						135
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	134	135	135	428	3.0	2	6/8	3/4	0						136
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	135	136	136	431	3.0	2	6/8	3/4	0						137
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	136	137	137	434	3.0	2	6/8	3/4	0						138
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	137	138	138	437	3.0	2	6/8	3/4	0						139
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	138	139	139	440	3.0	2	6/8	3/4	0						140
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	139	140	140	443	3.0	2	6/8	3/4	0						141
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	140	141	141	446	3.0	2	6/8	3/4	0						142
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	141	142	142	449	3.0	2	6/8	3/4	0						143
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	142	143	143	452	3.0	2	6/8	3/4	0						144
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	143	144	144	455	3.0	2	6/8	3/4	0						145
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	144	145	145	458	3.0	2	6/8	3/4	0						146
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	145	146	146	461	3.0	2	6/8	3/4	0						147
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	146	147	147	464	3.0	2	6/8	3/4	0						148
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	147	148	148	467	3.0	2	6/8	3/4	0						149
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	148	149	149	470	3.0	2	6/8	3/4	0						150
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	149	150	150	473	3.0	2	6/8	3/4	0						151
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	150	151	151	476	3.0	2	6/8	3/4	0						152
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	151	152	152	479	3.0	2	6/8	3/4	0						153
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	152	153	153	482	3.0	2	6/8	3/4	0						154
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	153	154	154	485	3.0	2	6/8	3/4	0						155
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	154	155	155	488	3.0	2	6/8	3/4	0						156
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	155	156	156	491	4.5	2	9/8	9/8	0						157
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	156	157	157	991/2	4.5	2	9/8	9/8	0						158
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	157	158	158	500	4.5	2	9/8	9/8	0						159
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	158	159	159	1009/2	4.5	2	9/8	9/8	0						160
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	159	160	160	509	4.5	2	9/8	9/8	0						161
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	160	161	161	1027/2	4.5	2	9/8	9/8	0						162
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	161	162	162	518	4.5	2	9/8	9/8	0						163
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	162	163	163	1045/2	4.5	2	9/8	9/8	0						164
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	163	164	164	527	4.5	2	9/8	9/8	0						165
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	164	165	165	1063/2	4.5	2	9/8	9/8	0			double			166
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	165	166	166	536	4.5	0	9/8	9/8	0						167
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	166	167	167	1081/2	4.5	0	9/8	9/8	0						168
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	167	168	168	545	3.0	0	6/8	3/4	0						169
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	168	169	169	548	3.0	0	6/8	3/4	0						170
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	169	170	170	551	4.5	0	9/8	9/8	0						171
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	170	171	171	1111/2	4.5	0	9/8	9/8	0						172
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	171	172	172	560	3.0	0	6/8	3/4	0						173
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	172	173	173	563	3.0	0	6/8	3/4	0						174
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	173	174	174	566	3.0	0	6/8	3/4	0						175
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	174	175	175	569	3.0	0	6/8	3/4	0						176
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	175	176	176	572	3.0	0	6/8	3/4	0						177
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	176	177	177	575	3.0	0	6/8	3/4	0						178
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	177	178	178	578	3.0	0	6/8	3/4	0						179
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	178	179	179	581	3.0	0	6/8	3/4	0						180
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	179	180	180	584	3.0	0	6/8	3/4	0						181
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	180	181	181	587	3.0	4	6/8	3/4	0						182
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	181	182	182	590	3.0	4	6/8	3/4	0						183
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	182	183	183	593	3.0	4	6/8	3/4	0						184
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	183	184	184	596	3.0	4	6/8	3/4	0						185
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	184	185	185	599	3.0	4	6/8	3/4	0						186
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	185	186	186	602	3.0	4	6/8	3/4	0						187
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	186	187	187	605	3.0	4	6/8	3/4	0						188
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	187	188	188	608	3.0	4	6/8	3/4	0						189
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	188	189	189	611	3.0	2	6/8	3/4	0						190
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	189	190	190	614	3.0	2	6/8	3/4	0						191
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	190	191	191	617	3.5	2	6/8	7/8	0						192
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	191	192	192	1241/2	3.0	2	6/8	3/4	0						193
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	192	193	193	1247/2	3.0	2	6/8	3/4	0						194
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	193	194	194	1253/2	3.0	2	6/8	3/4	0						195
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	194	195	195	1259/2	3.25	2	6/8	13/16	0						196
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	195	196	196	2531/4	3.0	2	6/8	3/4	0						197
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	196	197	197	2543/4	3.0	2	6/8	3/4	0						198
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	197	198	198	2555/4	3.0	2	6/8	3/4	0						199
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	198	199	199	2567/4	3.0	2	6/8	3/4	0						200
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	199	200	200	2579/4	3.0	2	6/8	3/4	0						201
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	200	201	201	2591/4	3.0	2	6/8	3/4	0						202
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	201	202	202	2603/4	3.0	2	6/8	3/4	0						203
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	202	203	203	2615/4	3.0	2	6/8	3/4	0						204
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	203	204	204	2627/4	3.0	2	6/8	3/4	0						205
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	204	205	205	2639/4	3.0	2	6/8	3/4	0						206
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	205	206	206	2651/4	3.0	2	6/8	3/4	0						207
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	206	207	207	2663/4	3.0	2	6/8	3/4	0						208
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	207	208	208	2675/4	3.0	2	6/8	3/4	0						209
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	208	209	209	2687/4	3.0	2	6/8	3/4	0						210
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	209	210	210	2699/4	3.0	2	6/8	3/4	0						211
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	210	211	211	2711/4	3.0	2	6/8	3/4	0						212
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	211	212	212	2723/4	3.0	2	6/8	3/4	0						213
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	212	213	213	2735/4	4.5	2	9/8	9/8	0						214
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	213	214	214	2753/4	4.5	2	9/8	9/8	0						215
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	214	215	215	2771/4	4.5	2	9/8	9/8	0						216
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	215	216	216	2789/4	3.0	2	6/8	3/4	0						217
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	216	217	217	2801/4	3.0	2	6/8	3/4	0						218
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	217	218	218	2813/4	1.5	2	3/8	3/8	0						219
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	218	219	219	2819/4	3.0	2	6/8	3/4	0						220
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	219	220	220	2831/4	3.0	2	6/8	3/4	0				line		221
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	220	221	221	2843/4	3.0	2	6/8	3/4	0						222
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	221	222	222	2855/4	3.0	2	6/8	3/4	0						223
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	222	223	223	2867/4	3.0	2	6/8	3/4	0				line		224
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	223	224	224	2879/4	3.0	2	6/8	3/4	0						225
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	224	225	225	2891/4	3.0	2	6/8	3/4	0						226
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	225	226	226	2903/4	3.0	2	6/8	3/4	0						227
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	226	227	227	2915/4	3.0	2	6/8	3/4	0						228
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	227	228	228	2927/4	3.5	2	6/8	7/8	0						229
+ravel_piano	Ravel_-_Miroirs_IV._Alborada_del_gracioso	228	229	229	2941/4	3.5	2	6/8	7/8	0			end		lastMeasure	-1
+sweelinck_keyboard	SwWV258_fantasia_cromatica	0	1	1	0	4.0	-1	4/4	1	0					firstMeasure	2
+sweelinck_keyboard	SwWV258_fantasia_cromatica	1	2	2	4	4.0	-1	4/4	1	0						3
+sweelinck_keyboard	SwWV258_fantasia_cromatica	2	3	3	8	4.0	-1	4/4	1	0						4
+sweelinck_keyboard	SwWV258_fantasia_cromatica	3	4	4	12	4.0	-1	4/4	1	0						5
+sweelinck_keyboard	SwWV258_fantasia_cromatica	4	5	5	16	4.0	-1	4/4	1	0						6
+sweelinck_keyboard	SwWV258_fantasia_cromatica	5	6	6	20	4.0	-1	4/4	1	0				line		7
+sweelinck_keyboard	SwWV258_fantasia_cromatica	6	7	7	24	4.0	-1	4/4	1	0						8
+sweelinck_keyboard	SwWV258_fantasia_cromatica	7	8	8	28	4.0	-1	4/4	1	0						9
+sweelinck_keyboard	SwWV258_fantasia_cromatica	8	9	9	32	4.0	-1	4/4	1	0						10
+sweelinck_keyboard	SwWV258_fantasia_cromatica	9	10	10	36	4.0	-1	4/4	1	0						11
+sweelinck_keyboard	SwWV258_fantasia_cromatica	10	11	11	40	4.0	-1	4/4	1	0				line		12
+sweelinck_keyboard	SwWV258_fantasia_cromatica	11	12	12	44	4.0	-1	4/4	1	0						13
+sweelinck_keyboard	SwWV258_fantasia_cromatica	12	13	13	48	4.0	-1	4/4	1	0						14
+sweelinck_keyboard	SwWV258_fantasia_cromatica	13	14	14	52	4.0	-1	4/4	1	0						15
+sweelinck_keyboard	SwWV258_fantasia_cromatica	14	15	15	56	4.0	-1	4/4	1	0						16
+sweelinck_keyboard	SwWV258_fantasia_cromatica	15	16	16	60	4.0	-1	4/4	1	0				line		17
+sweelinck_keyboard	SwWV258_fantasia_cromatica	16	17	17	64	4.0	-1	4/4	1	0						18
+sweelinck_keyboard	SwWV258_fantasia_cromatica	17	18	18	68	4.0	-1	4/4	1	0						19
+sweelinck_keyboard	SwWV258_fantasia_cromatica	18	19	19	72	4.0	-1	4/4	1	0						20
+sweelinck_keyboard	SwWV258_fantasia_cromatica	19	20	20	76	4.0	-1	4/4	1	0						21
+sweelinck_keyboard	SwWV258_fantasia_cromatica	20	21	21	80	4.0	-1	4/4	1	0				line		22
+sweelinck_keyboard	SwWV258_fantasia_cromatica	21	22	22	84	4.0	-1	4/4	1	0						23
+sweelinck_keyboard	SwWV258_fantasia_cromatica	22	23	23	88	4.0	-1	4/4	1	0						24
+sweelinck_keyboard	SwWV258_fantasia_cromatica	23	24	24	92	4.0	-1	4/4	1	0						25
+sweelinck_keyboard	SwWV258_fantasia_cromatica	24	25	25	96	4.0	-1	4/4	1	0						26
+sweelinck_keyboard	SwWV258_fantasia_cromatica	25	26	26	100	4.0	-1	4/4	1	0				line		27
+sweelinck_keyboard	SwWV258_fantasia_cromatica	26	27	27	104	4.0	-1	4/4	1	0						28
+sweelinck_keyboard	SwWV258_fantasia_cromatica	27	28	28	108	4.0	-1	4/4	1	0						29
+sweelinck_keyboard	SwWV258_fantasia_cromatica	28	29	29	112	4.0	-1	4/4	1	0						30
+sweelinck_keyboard	SwWV258_fantasia_cromatica	29	30	30	116	4.0	-1	4/4	1	0						31
+sweelinck_keyboard	SwWV258_fantasia_cromatica	30	31	31	120	4.0	-1	4/4	1	0				line		32
+sweelinck_keyboard	SwWV258_fantasia_cromatica	31	32	32	124	4.0	-1	4/4	1	0						33
+sweelinck_keyboard	SwWV258_fantasia_cromatica	32	33	33	128	4.0	-1	4/4	1	0						34
+sweelinck_keyboard	SwWV258_fantasia_cromatica	33	34	34	132	4.0	-1	4/4	1	0						35
+sweelinck_keyboard	SwWV258_fantasia_cromatica	34	35	35	136	4.0	-1	4/4	1	0						36
+sweelinck_keyboard	SwWV258_fantasia_cromatica	35	36	36	140	4.0	-1	4/4	1	0				line		37
+sweelinck_keyboard	SwWV258_fantasia_cromatica	36	37	37	144	4.0	-1	4/4	1	0						38
+sweelinck_keyboard	SwWV258_fantasia_cromatica	37	38	38	148	4.0	-1	4/4	1	0						39
+sweelinck_keyboard	SwWV258_fantasia_cromatica	38	39	39	152	4.0	-1	4/4	1	0						40
+sweelinck_keyboard	SwWV258_fantasia_cromatica	39	40	40	156	4.0	-1	4/4	1	0						41
+sweelinck_keyboard	SwWV258_fantasia_cromatica	40	41	41	160	4.0	-1	4/4	1	0				line		42
+sweelinck_keyboard	SwWV258_fantasia_cromatica	41	42	42	164	4.0	-1	4/4	1	0						43
+sweelinck_keyboard	SwWV258_fantasia_cromatica	42	43	43	168	4.0	-1	4/4	1	0						44
+sweelinck_keyboard	SwWV258_fantasia_cromatica	43	44	44	172	4.0	-1	4/4	1	0						45
+sweelinck_keyboard	SwWV258_fantasia_cromatica	44	45	45	176	4.0	-1	4/4	1	0						46
+sweelinck_keyboard	SwWV258_fantasia_cromatica	45	46	46	180	4.0	-1	4/4	1	0				line		47
+sweelinck_keyboard	SwWV258_fantasia_cromatica	46	47	47	184	4.0	-1	4/4	1	0						48
+sweelinck_keyboard	SwWV258_fantasia_cromatica	47	48	48	188	4.0	-1	4/4	1	0						49
+sweelinck_keyboard	SwWV258_fantasia_cromatica	48	49	49	192	4.0	-1	4/4	1	0						50
+sweelinck_keyboard	SwWV258_fantasia_cromatica	49	50	50	196	4.0	-1	4/4	1	0						51
+sweelinck_keyboard	SwWV258_fantasia_cromatica	50	51	51	200	4.0	-1	4/4	1	0						52
+sweelinck_keyboard	SwWV258_fantasia_cromatica	51	52	52	204	4.0	-1	4/4	1	0				line		53
+sweelinck_keyboard	SwWV258_fantasia_cromatica	52	53	53	208	4.0	-1	4/4	1	0						54
+sweelinck_keyboard	SwWV258_fantasia_cromatica	53	54	54	212	4.0	-1	4/4	1	0						55
+sweelinck_keyboard	SwWV258_fantasia_cromatica	54	55	55	216	4.0	-1	4/4	1	0						56
+sweelinck_keyboard	SwWV258_fantasia_cromatica	55	56	56	220	4.0	-1	4/4	1	0						57
+sweelinck_keyboard	SwWV258_fantasia_cromatica	56	57	57	224	4.0	-1	4/4	1	0				line		58
+sweelinck_keyboard	SwWV258_fantasia_cromatica	57	58	58	228	4.0	-1	4/4	1	0						59
+sweelinck_keyboard	SwWV258_fantasia_cromatica	58	59	59	232	4.0	-1	4/4	1	0						60
+sweelinck_keyboard	SwWV258_fantasia_cromatica	59	60	60	236	4.0	-1	4/4	1	0						61
+sweelinck_keyboard	SwWV258_fantasia_cromatica	60	61	61	240	4.0	-1	4/4	1	0						62
+sweelinck_keyboard	SwWV258_fantasia_cromatica	61	62	62	244	4.0	-1	4/4	1	0						63
+sweelinck_keyboard	SwWV258_fantasia_cromatica	62	63	63	248	4.0	-1	4/4	1	0				line		64
+sweelinck_keyboard	SwWV258_fantasia_cromatica	63	64	64	252	4.0	-1	4/4	1	0						65
+sweelinck_keyboard	SwWV258_fantasia_cromatica	64	65	65	256	4.0	-1	4/4	1	0						66
+sweelinck_keyboard	SwWV258_fantasia_cromatica	65	66	66	260	4.0	-1	4/4	1	0						67
+sweelinck_keyboard	SwWV258_fantasia_cromatica	66	67	67	264	4.0	-1	4/4	1	0						68
+sweelinck_keyboard	SwWV258_fantasia_cromatica	67	68	68	268	4.0	-1	4/4	1	0				line		69
+sweelinck_keyboard	SwWV258_fantasia_cromatica	68	69	69	272	4.0	-1	4/4	1	0						70
+sweelinck_keyboard	SwWV258_fantasia_cromatica	69	70	70	276	4.0	-1	4/4	1	0						71
+sweelinck_keyboard	SwWV258_fantasia_cromatica	70	71	71	280	4.0	-1	4/4	1	0						72
+sweelinck_keyboard	SwWV258_fantasia_cromatica	71	72	72	284	4.0	-1	4/4	1	0				line		73
+sweelinck_keyboard	SwWV258_fantasia_cromatica	72	73	73	288	4.0	-1	4/4	1	0						74
+sweelinck_keyboard	SwWV258_fantasia_cromatica	73	74	74	292	4.0	-1	4/4	1	0						75
+sweelinck_keyboard	SwWV258_fantasia_cromatica	74	75	75	296	4.0	-1	4/4	1	0						76
+sweelinck_keyboard	SwWV258_fantasia_cromatica	75	76	76	300	4.0	-1	4/4	1	0						77
+sweelinck_keyboard	SwWV258_fantasia_cromatica	76	77	77	304	4.0	-1	4/4	1	0				line		78
+sweelinck_keyboard	SwWV258_fantasia_cromatica	77	78	78	308	4.0	-1	4/4	1	0						79
+sweelinck_keyboard	SwWV258_fantasia_cromatica	78	79	79	312	4.0	-1	4/4	1	0						80
+sweelinck_keyboard	SwWV258_fantasia_cromatica	79	80	80	316	4.0	-1	4/4	1	0						81
+sweelinck_keyboard	SwWV258_fantasia_cromatica	80	81	81	320	4.0	-1	4/4	1	0						82
+sweelinck_keyboard	SwWV258_fantasia_cromatica	81	82	82	324	4.0	-1	4/4	1	0				line		83
+sweelinck_keyboard	SwWV258_fantasia_cromatica	82	83	83	328	4.0	-1	4/4	1	0						84
+sweelinck_keyboard	SwWV258_fantasia_cromatica	83	84	84	332	4.0	-1	4/4	1	0						85
+sweelinck_keyboard	SwWV258_fantasia_cromatica	84	85	85	336	4.0	-1	4/4	1	0						86
+sweelinck_keyboard	SwWV258_fantasia_cromatica	85	86	86	340	4.0	-1	4/4	1	0						87
+sweelinck_keyboard	SwWV258_fantasia_cromatica	86	87	87	344	4.0	-1	4/4	1	0				line		88
+sweelinck_keyboard	SwWV258_fantasia_cromatica	87	88	88	348	4.0	-1	4/4	1	0						89
+sweelinck_keyboard	SwWV258_fantasia_cromatica	88	89	89	352	4.0	-1	4/4	1	0						90
+sweelinck_keyboard	SwWV258_fantasia_cromatica	89	90	90	356	4.0	-1	4/4	1	0						91
+sweelinck_keyboard	SwWV258_fantasia_cromatica	90	91	91	360	4.0	-1	4/4	1	0						92
+sweelinck_keyboard	SwWV258_fantasia_cromatica	91	92	92	364	4.0	-1	4/4	1	0				line		93
+sweelinck_keyboard	SwWV258_fantasia_cromatica	92	93	93	368	4.0	-1	4/4	1	0						94
+sweelinck_keyboard	SwWV258_fantasia_cromatica	93	94	94	372	4.0	-1	4/4	1	0						95
+sweelinck_keyboard	SwWV258_fantasia_cromatica	94	95	95	376	4.0	-1	4/4	1	0						96
+sweelinck_keyboard	SwWV258_fantasia_cromatica	95	96	96	380	4.0	-1	4/4	1	0						97
+sweelinck_keyboard	SwWV258_fantasia_cromatica	96	97	97	384	4.0	-1	4/4	1	0				line		98
+sweelinck_keyboard	SwWV258_fantasia_cromatica	97	98	98	388	4.0	-1	4/4	1	0						99
+sweelinck_keyboard	SwWV258_fantasia_cromatica	98	99	99	392	4.0	-1	4/4	1	0						100
+sweelinck_keyboard	SwWV258_fantasia_cromatica	99	100	100	396	4.0	-1	4/4	1	0						101
+sweelinck_keyboard	SwWV258_fantasia_cromatica	100	101	101	400	4.0	-1	4/4	1	0						102
+sweelinck_keyboard	SwWV258_fantasia_cromatica	101	102	102	404	4.0	-1	4/4	1	0				line		103
+sweelinck_keyboard	SwWV258_fantasia_cromatica	102	103	103	408	4.0	-1	4/4	1	0						104
+sweelinck_keyboard	SwWV258_fantasia_cromatica	103	104	104	412	4.0	-1	4/4	1	0						105
+sweelinck_keyboard	SwWV258_fantasia_cromatica	104	105	105	416	4.0	-1	4/4	1	0						106
+sweelinck_keyboard	SwWV258_fantasia_cromatica	105	106	106	420	4.0	-1	4/4	1	0				line		107
+sweelinck_keyboard	SwWV258_fantasia_cromatica	106	107	107	424	4.0	-1	4/4	1	0						108
+sweelinck_keyboard	SwWV258_fantasia_cromatica	107	108	108	428	4.0	-1	4/4	1	0						109
+sweelinck_keyboard	SwWV258_fantasia_cromatica	108	109	109	432	4.0	-1	4/4	1	0				line		110
+sweelinck_keyboard	SwWV258_fantasia_cromatica	109	110	110	436	4.0	-1	4/4	1	0						111
+sweelinck_keyboard	SwWV258_fantasia_cromatica	110	111	111	440	4.0	-1	4/4	1	0						112
+sweelinck_keyboard	SwWV258_fantasia_cromatica	111	112	112	444	4.0	-1	4/4	1	0				line		113
+sweelinck_keyboard	SwWV258_fantasia_cromatica	112	113	113	448	4.0	-1	4/4	1	0						114
+sweelinck_keyboard	SwWV258_fantasia_cromatica	113	114	114	452	4.0	-1	4/4	1	0						115
+sweelinck_keyboard	SwWV258_fantasia_cromatica	114	115	115	456	4.0	-1	4/4	1	0						116
+sweelinck_keyboard	SwWV258_fantasia_cromatica	115	116	116	460	4.0	-1	4/4	1	0						117
+sweelinck_keyboard	SwWV258_fantasia_cromatica	116	117	117	464	4.0	-1	4/4	1	0				line		118
+sweelinck_keyboard	SwWV258_fantasia_cromatica	117	118	118	468	4.0	-1	4/4	1	0						119
+sweelinck_keyboard	SwWV258_fantasia_cromatica	118	119	119	472	4.0	-1	4/4	1	0						120
+sweelinck_keyboard	SwWV258_fantasia_cromatica	119	120	120	476	4.0	-1	4/4	1	0						121
+sweelinck_keyboard	SwWV258_fantasia_cromatica	120	121	121	480	4.0	-1	4/4	1	0						122
+sweelinck_keyboard	SwWV258_fantasia_cromatica	121	122	122	484	4.0	-1	4/4	1	0				line		123
+sweelinck_keyboard	SwWV258_fantasia_cromatica	122	123	123	488	4.0	-1	4/4	1	0						124
+sweelinck_keyboard	SwWV258_fantasia_cromatica	123	124	124	492	4.0	-1	4/4	1	0						125
+sweelinck_keyboard	SwWV258_fantasia_cromatica	124	125	125	496	4.0	-1	4/4	1	0						126
+sweelinck_keyboard	SwWV258_fantasia_cromatica	125	126	126	500	4.0	-1	4/4	1	0						127
+sweelinck_keyboard	SwWV258_fantasia_cromatica	126	127	127	504	4.0	-1	4/4	1	0				line		128
+sweelinck_keyboard	SwWV258_fantasia_cromatica	127	128	128	508	4.0	-1	4/4	1	0						129
+sweelinck_keyboard	SwWV258_fantasia_cromatica	128	129	129	512	4.0	-1	4/4	1	0						130
+sweelinck_keyboard	SwWV258_fantasia_cromatica	129	130	130	516	4.0	-1	4/4	1	0						131
+sweelinck_keyboard	SwWV258_fantasia_cromatica	130	131	131	520	4.0	-1	4/4	1	0						132
+sweelinck_keyboard	SwWV258_fantasia_cromatica	131	132	132	524	4.0	-1	4/4	1	0				line		133
+sweelinck_keyboard	SwWV258_fantasia_cromatica	132	133	133	528	4.0	-1	4/4	1	0						134
+sweelinck_keyboard	SwWV258_fantasia_cromatica	133	134	134	532	4.0	-1	4/4	1	0						135
+sweelinck_keyboard	SwWV258_fantasia_cromatica	134	135	135	536	4.0	-1	4/4	1	0						136
+sweelinck_keyboard	SwWV258_fantasia_cromatica	135	136	136	540	4.0	-1	4/4	1	0						137
+sweelinck_keyboard	SwWV258_fantasia_cromatica	136	137	137	544	4.0	-1	4/4	1	0				line		138
+sweelinck_keyboard	SwWV258_fantasia_cromatica	137	138	138	548	4.0	-1	4/4	1	0						139
+sweelinck_keyboard	SwWV258_fantasia_cromatica	138	139	139	552	4.0	-1	4/4	1	0						140
+sweelinck_keyboard	SwWV258_fantasia_cromatica	139	140	140	556	4.0	-1	4/4	1	0						141
+sweelinck_keyboard	SwWV258_fantasia_cromatica	140	141	141	560	4.0	-1	4/4	1	0				line		142
+sweelinck_keyboard	SwWV258_fantasia_cromatica	141	142	142	564	4.0	-1	4/4	1	0						143
+sweelinck_keyboard	SwWV258_fantasia_cromatica	142	143	143	568	4.0	-1	4/4	1	0						144
+sweelinck_keyboard	SwWV258_fantasia_cromatica	143	144	144	572	4.0	-1	4/4	1	0				line		145
+sweelinck_keyboard	SwWV258_fantasia_cromatica	144	145	145	576	4.0	-1	4/4	1	0						146
+sweelinck_keyboard	SwWV258_fantasia_cromatica	145	146	146	580	4.0	-1	4/4	1	0						147
+sweelinck_keyboard	SwWV258_fantasia_cromatica	146	147	147	584	4.0	-1	4/4	1	0				line		148
+sweelinck_keyboard	SwWV258_fantasia_cromatica	147	148	148	588	4.0	-1	4/4	1	0						149
+sweelinck_keyboard	SwWV258_fantasia_cromatica	148	149	149	592	4.0	-1	4/4	1	0						150
+sweelinck_keyboard	SwWV258_fantasia_cromatica	149	150	150	596	4.0	-1	4/4	1	0				line		151
+sweelinck_keyboard	SwWV258_fantasia_cromatica	150	151	151	600	4.0	-1	4/4	1	0						152
+sweelinck_keyboard	SwWV258_fantasia_cromatica	151	152	152	604	4.0	-1	4/4	1	0						153
+sweelinck_keyboard	SwWV258_fantasia_cromatica	152	153	153	608	4.0	-1	4/4	1	0				line		154
+sweelinck_keyboard	SwWV258_fantasia_cromatica	153	154	154	612	4.0	-1	4/4	1	0						155
+sweelinck_keyboard	SwWV258_fantasia_cromatica	154	155	155	616	4.0	-1	4/4	1	0						156
+sweelinck_keyboard	SwWV258_fantasia_cromatica	155	156	156	620	4.0	-1	4/4	1	0				line		157
+sweelinck_keyboard	SwWV258_fantasia_cromatica	156	157	157	624	4.0	-1	4/4	1	0						158
+sweelinck_keyboard	SwWV258_fantasia_cromatica	157	158	158	628	4.0	-1	4/4	1	0						159
+sweelinck_keyboard	SwWV258_fantasia_cromatica	158	159	159	632	4.0	-1	4/4	1	0				line		160
+sweelinck_keyboard	SwWV258_fantasia_cromatica	159	160	160	636	4.0	-1	4/4	1	0						161
+sweelinck_keyboard	SwWV258_fantasia_cromatica	160	161	161	640	4.0	-1	4/4	1	0						162
+sweelinck_keyboard	SwWV258_fantasia_cromatica	161	162	162	644	4.0	-1	4/4	1	0				line		163
+sweelinck_keyboard	SwWV258_fantasia_cromatica	162	163	163	648	4.0	-1	4/4	1	0						164
+sweelinck_keyboard	SwWV258_fantasia_cromatica	163	164	164	652	4.0	-1	4/4	1	0				line		165
+sweelinck_keyboard	SwWV258_fantasia_cromatica	164	165	165	656	4.0	-1	4/4	1	0						166
+sweelinck_keyboard	SwWV258_fantasia_cromatica	165	166	166	660	4.0	-1	4/4	1	0				line		167
+sweelinck_keyboard	SwWV258_fantasia_cromatica	166	167	167	664	4.0	-1	4/4	1	0						168
+sweelinck_keyboard	SwWV258_fantasia_cromatica	167	168	168	668	4.0	-1	4/4	1	0				line		169
+sweelinck_keyboard	SwWV258_fantasia_cromatica	168	169	169	672	4.0	-1	4/4	1	0						170
+sweelinck_keyboard	SwWV258_fantasia_cromatica	169	170	170	676	4.0	-1	4/4	1	0				line		171
+sweelinck_keyboard	SwWV258_fantasia_cromatica	170	171	171	680	4.0	-1	4/4	1	0						172
+sweelinck_keyboard	SwWV258_fantasia_cromatica	171	172	172	684	4.0	-1	4/4	1	0						173
+sweelinck_keyboard	SwWV258_fantasia_cromatica	172	173	173	688	4.0	-1	4/4	1	0						174
+sweelinck_keyboard	SwWV258_fantasia_cromatica	173	174	174	692	4.0	-1	4/4	1	0						175
+sweelinck_keyboard	SwWV258_fantasia_cromatica	174	175	175	696	4.0	-1	4/4	1	0				line		176
+sweelinck_keyboard	SwWV258_fantasia_cromatica	175	176	176	700	4.0	-1	4/4	1	0						177
+sweelinck_keyboard	SwWV258_fantasia_cromatica	176	177	177	704	4.0	-1	4/4	1	0						178
+sweelinck_keyboard	SwWV258_fantasia_cromatica	177	178	178	708	4.0	-1	4/4	1	0						179
+sweelinck_keyboard	SwWV258_fantasia_cromatica	178	179	179	712	4.0	-1	4/4	1	0						180
+sweelinck_keyboard	SwWV258_fantasia_cromatica	179	180	180	716	4.0	-1	4/4	1	0				line		181
+sweelinck_keyboard	SwWV258_fantasia_cromatica	180	181	181	720	4.0	-1	4/4	1	0						182
+sweelinck_keyboard	SwWV258_fantasia_cromatica	181	182	182	724	4.0	-1	4/4	1	0						183
+sweelinck_keyboard	SwWV258_fantasia_cromatica	182	183	183	728	4.0	-1	4/4	1	0						184
+sweelinck_keyboard	SwWV258_fantasia_cromatica	183	184	184	732	4.0	-1	4/4	1	0				line		185
+sweelinck_keyboard	SwWV258_fantasia_cromatica	184	185	185	736	4.0	-1	4/4	1	0						186
+sweelinck_keyboard	SwWV258_fantasia_cromatica	185	186	186	740	4.0	-1	4/4	1	0						187
+sweelinck_keyboard	SwWV258_fantasia_cromatica	186	187	187	744	4.0	-1	4/4	1	0				line		188
+sweelinck_keyboard	SwWV258_fantasia_cromatica	187	188	188	748	4.0	-1	4/4	1	0						189
+sweelinck_keyboard	SwWV258_fantasia_cromatica	188	189	189	752	4.0	-1	4/4	1	0						190
+sweelinck_keyboard	SwWV258_fantasia_cromatica	189	190	190	756	4.0	-1	4/4	1	0				line		191
+sweelinck_keyboard	SwWV258_fantasia_cromatica	190	191	191	760	4.0	-1	4/4	1	0						192
+sweelinck_keyboard	SwWV258_fantasia_cromatica	191	192	192	764	4.0	-1	4/4	1	0						193
+sweelinck_keyboard	SwWV258_fantasia_cromatica	192	193	193	768	4.0	-1	4/4	1	0				line		194
+sweelinck_keyboard	SwWV258_fantasia_cromatica	193	194	194	772	4.0	-1	4/4	1	0						195
+sweelinck_keyboard	SwWV258_fantasia_cromatica	194	195	195	776	4.0	-1	4/4	1	0						196
+sweelinck_keyboard	SwWV258_fantasia_cromatica	195	196	196	780	4.0	-1	4/4	1	0			end	line	lastMeasure	-1
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	0	1	0	0	0.5	0	6/8	1/8	5/8		1			firstMeasure	2
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	1	2	1	1/2	3.0	0	6/8	3/4	0						3
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	2	3	2	7/2	3.0	0	6/8	3/4	0						4
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	3	4	3	13/2	3.0	0	6/8	3/4	0						5
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	4	5	4	19/2	3.0	0	6/8	3/4	0						6
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	5	6	5	25/2	3.0	0	6/8	3/4	0				line		7
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	6	7	6	31/2	3.0	0	6/8	3/4	0						8
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	7	8	7	37/2	3.0	0	6/8	3/4	0						9
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	8	9	8	43/2	3.0	0	6/8	3/4	0						10
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	9	10	9	49/2	3.0	0	6/8	3/4	0						11
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	10	11	10	55/2	3.0	0	6/8	3/4	0				line		12
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	11	12	11	61/2	3.0	0	6/8	3/4	0						13
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	12	13	12	67/2	3.0	0	6/8	3/4	0						14
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	13	14	13	73/2	3.0	0	6/8	3/4	0						15
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	14	15	14	79/2	3.0	0	6/8	3/4	0						16
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	15	16	15	85/2	3.0	0	6/8	3/4	0				line		17
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	16	17	16	91/2	3.0	0	6/8	3/4	0						18
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	17	18	17	97/2	3.0	0	6/8	3/4	0						19
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	18	19	18	103/2	3.0	0	6/8	3/4	0						20
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	19	20	19	109/2	3.0	0	6/8	3/4	0						21
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	20	21	20	115/2	3.0	0	6/8	3/4	0						22
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	21	22	21	121/2	3.0	0	6/8	3/4	0						23
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	22	23	22	127/2	3.0	0	6/8	3/4	0						24
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	23	24	23	133/2	3.0	0	6/8	3/4	0						25
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	24	25	24	139/2	3.0	0	6/8	3/4	0						26
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	25	26	25	145/2	3.0	0	6/8	3/4	0						27
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	26	27	26	151/2	3.0	0	6/8	3/4	0						28
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	27	28	27	157/2	3.0	0	6/8	3/4	0				line		29
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	28	29	28	163/2	3.0	0	6/8	3/4	0						30
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	29	30	29	169/2	3.0	0	6/8	3/4	0						31
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	30	31	30	175/2	3.0	0	6/8	3/4	0				line		32
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	31	32	31	181/2	3.0	0	6/8	3/4	0						33
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	32	33	32	187/2	3.0	0	6/8	3/4	0						34
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	33	34	33	193/2	3.0	0	6/8	3/4	0						35
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	34	35	34	199/2	3.0	0	6/8	3/4	0						36
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	35	36	35	205/2	3.0	0	6/8	3/4	0						37
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	36	37	36	211/2	3.0	0	6/8	3/4	0						38
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	37	38	37	217/2	3.0	0	6/8	3/4	0						39
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	38	39	38	223/2	3.0	0	6/8	3/4	0						40
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	39	40	39	229/2	3.0	0	6/8	3/4	0						41
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	40	41	40	235/2	3.0	0	6/8	3/4	0						42
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	41	42	41	241/2	3.0	0	6/8	3/4	0						43
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	42	43	42	247/2	3.0	0	6/8	3/4	0			double	line		44
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	43	44	43	253/2	3.0	3	6/8	3/4	0						45
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	44	45	44	259/2	3.0	3	6/8	3/4	0				line		46
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	45	46	45	265/2	3.0	3	6/8	3/4	0						47
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	46	47	46	271/2	3.0	3	6/8	3/4	0						48
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	47	48	47	277/2	3.0	3	6/8	3/4	0						49
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	48	49	48	283/2	3.0	3	6/8	3/4	0						50
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	49	50	49	289/2	3.0	3	6/8	3/4	0						51
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	50	51	50	295/2	3.0	3	6/8	3/4	0						52
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	51	52	51	301/2	3.0	3	6/8	3/4	0						53
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	52	53	52	307/2	3.0	3	6/8	3/4	0						54
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	53	54	53	313/2	3.0	3	6/8	3/4	0						55
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	54	55	54	319/2	3.0	3	6/8	3/4	0						56
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	55	56	55	325/2	3.0	3	6/8	3/4	0						57
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	56	57	56	331/2	3.0	3	6/8	3/4	0						58
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	57	58	57	337/2	3.0	3	6/8	3/4	0						59
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	58	59	58	343/2	3.0	3	6/8	3/4	0						60
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	59	60	59	349/2	3.0	3	6/8	3/4	0						61
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	60	61	60	355/2	3.0	3	6/8	3/4	0						62
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	61	62	61	361/2	3.0	3	6/8	3/4	0						63
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	62	63	62	367/2	3.0	3	6/8	3/4	0						64
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	63	64	63	373/2	3.0	3	6/8	3/4	0						65
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	64	65	64	379/2	3.0	3	6/8	3/4	0				line		66
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	65	66	65	385/2	3.0	3	6/8	3/4	0						67
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	66	67	66	391/2	3.0	3	6/8	3/4	0						68
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	67	68	67	397/2	3.0	3	6/8	3/4	0				line		69
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	68	69	68	403/2	3.0	3	6/8	3/4	0						70
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	69	70	69	409/2	3.0	3	6/8	3/4	0				line		71
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	70	71	70	415/2	3.0	3	6/8	3/4	0			double			72
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	71	72	71	421/2	3.0	0	6/8	3/4	0						73
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	72	73	72	427/2	3.0	0	6/8	3/4	0						74
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	73	74	73	433/2	3.0	0	6/8	3/4	0						75
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	74	75	74	439/2	3.0	0	6/8	3/4	0						76
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	75	76	75	445/2	3.0	0	6/8	3/4	0						77
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	76	77	76	451/2	3.0	0	6/8	3/4	0						78
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	77	78	77	457/2	3.0	0	6/8	3/4	0				line		79
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	78	79	78	463/2	3.0	0	6/8	3/4	0						80
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	79	80	79	469/2	3.0	0	6/8	3/4	0				line		81
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	80	81	80	475/2	3.0	0	6/8	3/4	0				line		82
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	81	82	81	481/2	3.0	0	6/8	3/4	0						83
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	82	83	82	487/2	3.0	0	6/8	3/4	0				line		84
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	83	84	83	493/2	3.0	0	6/8	3/4	0				line		85
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	84	85	84	499/2	3.0	0	6/8	3/4	0						86
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	85	86	85	505/2	3.0	0	6/8	3/4	0						87
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	86	87	86	511/2	3.0	0	6/8	3/4	0						88
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	87	88	87	517/2	3.0	0	6/8	3/4	0						89
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	88	89	88	523/2	3.0	0	6/8	3/4	0						90
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	89	90	89	529/2	3.0	0	6/8	3/4	0						91
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	90	91	90	535/2	3.0	0	6/8	3/4	0						92
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	91	92	91	541/2	3.0	0	6/8	3/4	0						93
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	92	93	92	547/2	3.0	0	6/8	3/4	0						94
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	93	94	93	553/2	3.0	0	6/8	3/4	0						95
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	94	95	94	559/2	3.0	0	6/8	3/4	0						96
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	95	96	95	565/2	3.0	0	6/8	3/4	0						97
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	96	97	96	571/2	3.0	0	6/8	3/4	0						98
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	97	98	97	577/2	3.0	0	6/8	3/4	0						99
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	98	99	98	583/2	3.0	0	6/8	3/4	0						100
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	99	100	99	589/2	3.0	0	6/8	3/4	0						101
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	100	101	100	595/2	3.0	0	6/8	3/4	0						102
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	101	102	101	601/2	3.0	0	6/8	3/4	0						103
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	102	103	102	607/2	3.0	0	6/8	3/4	0						104
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	103	104	103	613/2	3.0	0	6/8	3/4	0						105
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	104	105	104	619/2	3.0	0	6/8	3/4	0						106
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	105	106	105	625/2	3.0	0	6/8	3/4	0				line		107
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	106	107	106	631/2	3.0	0	6/8	3/4	0						108
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	107	108	107	637/2	3.0	0	6/8	3/4	0						109
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	108	109	108	643/2	3.0	0	6/8	3/4	0						110
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	109	110	109	649/2	3.0	0	6/8	3/4	0						111
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	110	111	110	655/2	3.0	0	6/8	3/4	0						112
+wagner_overtures	WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia	111	112	111	661/2	3.0	0	6/8	3/4	0			end		lastMeasure	-1
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	0	1	1	0	4.0	0	4/4	1	0					firstMeasure	2
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	1	2	2	4	4.0	0	4/4	1	0						3
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	2	3	3	8	4.0	0	4/4	1	0						4
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	3	4	4	12	4.0	0	4/4	1	0						5
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	4	5	5	16	4.0	0	4/4	1	0						6
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	5	6	6	20	4.0	0	4/4	1	0						7
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	6	7	7	24	4.0	0	4/4	1	0						8
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	7	8	8	28	4.0	0	4/4	1	0						9
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	8	9	9	32	4.0	0	4/4	1	0						10
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	9	10	10	36	4.0	0	4/4	1	0						11
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	10	11	11	40	4.0	0	4/4	1	0						12
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	11	12	12	44	4.0	0	4/4	1	0						13
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	12	13	13	48	4.0	0	4/4	1	0						14
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	13	14	14	52	4.0	0	4/4	1	0						15
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	14	15	15	56	4.0	0	4/4	1	0						16
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	15	16	16	60	4.0	0	4/4	1	0						17
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	16	17	17	64	4.0	0	4/4	1	0						18
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	17	18	18	68	4.0	0	4/4	1	0						19
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	18	19	19	72	4.0	0	4/4	1	0						20
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	19	20	20	76	4.0	0	4/4	1	0						21
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	20	21	21	80	4.0	0	4/4	1	0						22
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	21	22	22	84	4.0	0	4/4	1	0						23
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	22	23	23	88	4.0	0	4/4	1	0						24
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	23	24	24	92	4.0	0	4/4	1	0						25
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	24	25	25	96	4.0	0	4/4	1	0						26
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	25	26	26	100	4.0	0	4/4	1	0						27
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	26	27	27	104	4.0	0	4/4	1	0						28
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	27	28	28	108	4.0	0	4/4	1	0						29
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	28	29	29	112	4.0	0	4/4	1	0						30
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	29	30	30	116	4.0	0	4/4	1	0						31
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	30	31	31	120	4.0	0	4/4	1	0						32
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	31	32	32	124	4.0	0	4/4	1	0						33
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	32	33	33	128	4.0	0	4/4	1	0						34
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	33	34	34	132	4.0	0	4/4	1	0						35
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	34	35	35	136	4.0	0	4/4	1	0						36
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	35	36	36	140	4.0	0	4/4	1	0						37
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	36	37	37	144	4.0	0	4/4	1	0						38
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	37	38	38	148	4.0	0	4/4	1	0						39
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	38	39	39	152	4.0	0	4/4	1	0						40
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	39	40	40	156	4.0	0	4/4	1	0						41
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	40	41	41	160	4.0	0	4/4	1	0						42
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	41	42	42	164	4.0	0	4/4	1	0						43
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	42	43	43	168	4.0	0	4/4	1	0						44
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	43	44	44	172	4.0	0	4/4	1	0						45
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	44	45	45	176	4.0	0	4/4	1	0						46
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	45	46	46	180	4.0	0	4/4	1	0						47
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	46	47	47	184	4.0	0	4/4	1	0						48
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	47	48	48	188	4.0	0	4/4	1	0						49
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	48	49	49	192	4.0	0	4/4	1	0						50
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	49	50	50	196	4.0	0	4/4	1	0						51
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	50	51	51	200	4.0	0	4/4	1	0						52
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	51	52	52	204	4.0	0	4/4	1	0						53
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	52	53	53	208	4.0	0	4/4	1	0						54
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	53	54	54	212	4.0	0	4/4	1	0						55
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	54	55	55	216	4.0	0	4/4	1	0						56
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	55	56	56	220	4.0	0	4/4	1	0						57
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	56	57	57	224	4.0	0	4/4	1	0						58
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	57	58	58	228	4.0	0	4/4	1	0						59
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	58	59	59	232	4.0	0	4/4	1	0						60
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	59	60	60	236	4.0	0	4/4	1	0						61
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	60	61	61	240	4.0	0	4/4	1	0						62
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	61	62	62	244	4.0	0	4/4	1	0						63
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	62	63	63	248	4.0	0	4/4	1	0						64
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	63	64	64	252	4.0	0	4/4	1	0						65
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	64	65	65	256	4.0	0	4/4	1	0						66
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	65	66	66	260	4.0	0	4/4	1	0						67
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	66	67	67	264	4.0	0	4/4	1	0						68
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	67	68	68	268	4.0	0	4/4	1	0						69
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	68	69	69	272	4.0	0	4/4	1	0						70
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	69	70	70	276	4.0	0	4/4	1	0						71
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	70	71	71	280	4.0	0	4/4	1	0						72
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	71	72	72	284	4.0	0	4/4	1	0						73
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	72	73	73	288	4.0	0	4/4	1	0						74
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	73	74	74	292	4.0	0	4/4	1	0						75
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	74	75	75	296	4.0	0	4/4	1	0						76
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	75	76	76	300	4.0	0	4/4	1	0						77
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	76	77	77	304	4.0	0	4/4	1	0						78
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	77	78	78	308	4.0	0	4/4	1	0						79
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	78	79	79	312	4.0	0	4/4	1	0						80
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	79	80	80	316	4.0	0	4/4	1	0						81
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	80	81	81	320	4.0	0	4/4	1	0						82
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	81	82	82	324	4.0	0	4/4	1	0						83
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	82	83	83	328	4.0	0	4/4	1	0						84
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	83	84	84	332	4.0	0	4/4	1	0						85
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	84	85	85	336	4.0	0	4/4	1	0						86
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	85	86	86	340	4.0	0	4/4	1	0						87
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	86	87	87	344	4.0	0	4/4	1	0						88
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	87	88	88	348	4.0	0	4/4	1	0						89
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	88	89	89	352	4.0	0	4/4	1	0						90
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	89	90	90	356	4.0	0	4/4	1	0						91
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	90	91	91	360	4.0	0	4/4	1	0						92
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	91	92	92	364	4.0	0	4/4	1	0						93
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	92	93	93	368	4.0	0	4/4	1	0						94
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	93	94	94	372	4.0	0	4/4	1	0						95
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	94	95	95	376	4.0	0	4/4	1	0						96
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	95	96	96	380	4.0	0	4/4	1	0			double			97
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	96	97	97	384	4.0	4	4/4	1	0						98
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	97	98	98	388	4.0	4	4/4	1	0						99
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	98	99	99	392	4.0	4	4/4	1	0						100
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	99	100	100	396	4.0	4	4/4	1	0						101
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	100	101	101	400	4.0	4	4/4	1	0						102
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	101	102	102	404	4.0	4	4/4	1	0						103
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	102	103	103	408	4.0	4	4/4	1	0						104
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	103	104	104	412	4.0	4	4/4	1	0						105
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	104	105	105	416	4.0	4	4/4	1	0						106
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	105	106	106	420	4.0	4	4/4	1	0						107
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	106	107	107	424	4.0	4	4/4	1	0						108
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	107	108	108	428	4.0	4	4/4	1	0			double			109
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	108	109	109	432	4.0	3	4/4	1	0						110
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	109	110	110	436	4.0	3	4/4	1	0						111
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	110	111	111	440	4.0	3	4/4	1	0						112
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	111	112	112	444	4.0	3	4/4	1	0						113
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	112	113	113	448	4.0	3	4/4	1	0						114
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	113	114	114	452	4.0	3	4/4	1	0						115
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	114	115	115	456	4.0	3	4/4	1	0						116
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	115	116	116	460	4.0	3	4/4	1	0						117
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	116	117	117	464	4.0	3	4/4	1	0			double			118
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	117	118	118	468	4.0	0	4/4	1	0						119
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	118	119	119	472	4.0	0	4/4	1	0						120
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	119	120	120	476	4.0	0	4/4	1	0						121
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	120	121	121	480	4.0	0	4/4	1	0			double			122
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	121	122	122	484	4.0	-3	4/4	1	0						123
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	122	123	123	488	4.0	-3	4/4	1	0						124
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	123	124	124	492	4.0	-3	4/4	1	0						125
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	124	125	125	496	4.0	-3	4/4	1	0						126
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	125	126	126	500	4.0	-3	4/4	1	0						127
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	126	127	127	504	4.0	-3	4/4	1	0						128
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	127	128	128	508	4.0	-3	4/4	1	0						129
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	128	129	129	512	4.0	-3	4/4	1	0						130
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	129	130	130	516	4.0	-3	4/4	1	0						131
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	130	131	131	520	4.0	-3	4/4	1	0						132
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	131	132	132	524	4.0	-3	4/4	1	0						133
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	132	133	133	528	4.0	-3	4/4	1	0						134
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	133	134	134	532	4.0	-3	4/4	1	0						135
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	134	135	135	536	4.0	-3	4/4	1	0						136
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	135	136	136	540	4.0	-3	4/4	1	0						137
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	136	137	137	544	4.0	-3	4/4	1	0						138
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	137	138	138	548	4.0	-3	4/4	1	0						139
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	138	139	139	552	4.0	-3	4/4	1	0						140
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	139	140	140	556	4.0	-3	4/4	1	0						141
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	140	141	141	560	4.0	-3	4/4	1	0						142
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	141	142	142	564	4.0	-3	4/4	1	0						143
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	142	143	143	568	4.0	-3	4/4	1	0						144
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	143	144	144	572	4.0	-3	4/4	1	0						145
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	144	145	145	576	4.0	-3	4/4	1	0						146
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	145	146	146	580	4.0	-3	4/4	1	0						147
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	146	147	147	584	4.0	-3	4/4	1	0						148
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	147	148	148	588	4.0	-3	4/4	1	0						149
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	148	149	149	592	4.0	-3	4/4	1	0						150
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	149	150	150	596	4.0	-3	4/4	1	0			double			151
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	150	151	151	600	4.0	0	4/4	1	0						152
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	151	152	152	604	4.0	0	4/4	1	0						153
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	152	153	153	608	4.0	0	4/4	1	0						154
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	153	154	154	612	4.0	0	4/4	1	0						155
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	154	155	155	616	4.0	0	4/4	1	0						156
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	155	156	156	620	4.0	0	4/4	1	0						157
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	156	157	157	624	4.0	0	4/4	1	0						158
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	157	158	158	628	4.0	0	4/4	1	0						159
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	158	159	159	632	4.0	0	4/4	1	0						160
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	159	160	160	636	4.0	0	4/4	1	0						161
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	160	161	161	640	4.0	0	4/4	1	0						162
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	161	162	162	644	4.0	0	4/4	1	0						163
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	162	163	163	648	4.0	0	4/4	1	0						164
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	163	164	164	652	4.0	0	4/4	1	0						165
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	164	165	165	656	4.0	0	4/4	1	0						166
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	165	166	166	660	4.0	0	4/4	1	0						167
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	166	167	167	664	4.0	0	4/4	1	0						168
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	167	168	168	668	4.0	0	4/4	1	0						169
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	168	169	169	672	4.0	0	4/4	1	0						170
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	169	170	170	676	4.0	0	4/4	1	0						171
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	170	171	171	680	4.0	0	4/4	1	0						172
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	171	172	172	684	4.0	0	4/4	1	0						173
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	172	173	173	688	4.0	0	4/4	1	0						174
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	173	174	174	692	4.0	0	4/4	1	0						175
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	174	175	175	696	4.0	0	4/4	1	0						176
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	175	176	176	700	4.0	0	4/4	1	0						177
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	176	177	177	704	4.0	0	4/4	1	0						178
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	177	178	178	708	4.0	0	4/4	1	0						179
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	178	179	179	712	4.0	0	4/4	1	0						180
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	179	180	180	716	4.0	0	4/4	1	0						181
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	180	181	181	720	4.0	0	4/4	1	0						182
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	181	182	182	724	4.0	0	4/4	1	0						183
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	182	183	183	728	4.0	0	4/4	1	0						184
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	183	184	184	732	4.0	0	4/4	1	0						185
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	184	185	185	736	4.0	0	4/4	1	0						186
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	185	186	186	740	4.0	0	4/4	1	0						187
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	186	187	187	744	4.0	0	4/4	1	0						188
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	187	188	188	748	4.0	0	4/4	1	0						189
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	188	189	189	752	4.0	0	4/4	1	0						190
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	189	190	190	756	4.0	0	4/4	1	0						191
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	190	191	191	760	4.0	0	4/4	1	0						192
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	191	192	192	764	4.0	0	4/4	1	0						193
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	192	193	193	768	4.0	0	4/4	1	0						194
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	193	194	194	772	4.0	0	4/4	1	0						195
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	194	195	195	776	4.0	0	4/4	1	0						196
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	195	196	196	780	4.0	0	4/4	1	0						197
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	196	197	197	784	4.0	0	4/4	1	0						198
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	197	198	198	788	4.0	0	4/4	1	0						199
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	198	199	199	792	4.0	0	4/4	1	0						200
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	199	200	200	796	4.0	0	4/4	1	0						201
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	200	201	201	800	4.0	0	4/4	1	0						202
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	201	202	202	804	4.0	0	4/4	1	0						203
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	202	203	203	808	4.0	0	4/4	1	0						204
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	203	204	204	812	4.0	0	4/4	1	0						205
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	204	205	205	816	4.0	0	4/4	1	0						206
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	205	206	206	820	4.0	0	4/4	1	0						207
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	206	207	207	824	4.0	0	4/4	1	0						208
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	207	208	208	828	4.0	0	4/4	1	0						209
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	208	209	209	832	4.0	0	4/4	1	0						210
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	209	210	210	836	4.0	0	4/4	1	0						211
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	210	211	211	840	4.0	0	4/4	1	0						212
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	211	212	212	844	4.0	0	4/4	1	0						213
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	212	213	213	848	4.0	0	4/4	1	0						214
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	213	214	214	852	4.0	0	4/4	1	0						215
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	214	215	215	856	4.0	0	4/4	1	0						216
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	215	216	216	860	4.0	0	4/4	1	0						217
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	216	217	217	864	4.0	0	4/4	1	0						218
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	217	218	218	868	4.0	0	4/4	1	0						219
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	218	219	219	872	4.0	0	4/4	1	0						220
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	219	220	220	876	4.0	0	4/4	1	0						221
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	220	221	221	880	4.0	0	4/4	1	0			double			222
+wagner_overtures	WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel	221	222	222	884	4.0	0	4/4	1	0			end		lastMeasure	-1

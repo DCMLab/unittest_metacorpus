@@ -56,6 +56,15 @@
         }
       },
       {
+        "name": "quarterbeats_all_endings",
+        "type": "string",
+        "title": "Offset from Beginning (Including Endings)",
+        "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
+        "constraints": {
+          "pattern": "\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
         "name": "duration_qb",
         "type": "number",
         "title": "Duration in \u2669",
@@ -222,15 +231,6 @@
         "type": "integer",
         "title": "Bass Note",
         "description": "Loweste note designated by the chord label, expressed as fifth intervals relative to the local tonic."
-      },
-      {
-        "name": "quarterbeats_all_endings",
-        "type": "string",
-        "title": "Offset from Beginning (Including Endings)",
-        "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
-        "constraints": {
-          "pattern": "\\d+(?:\\/\\d+)?"
-        }
       }
     ],
     "primaryKey": [
@@ -239,20 +239,22 @@
       "i"
     ],
     "facet": "expanded",
-    "identifier": "oHC79IL9nvfP8Q",
-    "filepath": "expanded/oHC79IL9nvfP8Q.schema.yaml",
-    "used_in": "unittest_metacorpus"
+    "identifier": "Hmj4nH5hMpAiGA",
+    "filepath": "expanded/Hmj4nH5hMpAiGA.schema.yaml",
+    "used_in": "wagner_overtures"
   },
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
-    "@id": "https://github.com/johentsch/ms3",
+    "@id": "https://pypi.org/project/ms3/",
     "name": "ms3",
     "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
     "author": {
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.2.1"
-  }
+    "softwareVersion": "2.4.0"
+  },
+  "git_revision": "a07c4c598f26cd973c878339236c9fff2e66d15b",
+  "git_tag": "a07c4c5"
 }
